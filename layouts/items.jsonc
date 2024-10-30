@@ -1,0 +1,153 @@
+{
+  // sets layouts for shadred items grids
+  // bigger example: https://github.com/Cyb3RGER/sm_ap_tracker/blob/main/layouts/items.json
+  "shared_item_grid": {
+    "type": "array",
+    "orientation": "vertical",
+    "margin": "0,0",
+    "content": [
+      {
+        "type": "array",
+        "orientation": "horizontal",
+        "margin": "0,0",
+        "content": [
+          {
+            "type": "itemgrid",
+            "item_margin": "-3,1",
+            "h_alignment": "left",
+            "item_size": 70,
+            "rows": [
+              ["joker","greedy","lusty","wrathful","gluttonous","jolly","zany","mad","crazy","droll","sly","wily","clever","devious","crafty","half","jokerstencil"],
+              ["8ball","misprint","dusk","raisedfist","chaostheclown","fibonacci","steeljoker","scaryface","abstract","delayedgratification","hack","pareidolia","grosmichel","evensteven","oddtodd","scholar","businesscard"],
+              ["dna","splash","blue","sixthsense","constellation","hiker","faceless","green","superposition","todolist","cavendish","cardsharp","redcard","madness","square","seance","riffraff"],
+              ["midasmask","luchador","photograph","giftcard","turtlebean","erosion","reservedparking","mailinrebate","tothemoon","hallucination","fortuneteller","juggler","drunkard","stone","goldenjoker","luckycat","baseballcard"],
+              ["walkietalkie","seltzer","castle","smileyface","campfire","goldenticket","mrbones","acrobat","sockandbuskin","swashbuckler","troubadour","certificate","smeared","throwback","hangingchad","roughgem","bloodstone"],
+              ["oopsall6s","theidol","seeingdouble","matador","hittheroad","theduo","thetrio","thefamily","theorder","thetribe","stuntman","invisible","brainstorm","satelite","shootthemoon","driverslicense","cartomancer"]
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "jokers_2": {
+    "type": "array",
+    "orientation": "vertical",
+    "margin": "0,0",
+    "content": [
+      {
+        "type": "array",
+        "orientation": "horizontal",
+        "margin": "0,0",
+        "content": [
+          {
+            "type": "itemgrid",
+            "item_margin": "-3,1",
+            "h_alignment": "left",
+            "item_size": 70,
+            "rows": [
+              ["fourfingers","mime","creditcard","ceremonialdagger","banner","mysticsummit","marblejoker","loyaltycard","ridethebus","spacejoker","egg","burglar","blackboard","runner","icecream","vampire","shortcut"],
+              ["hologram","vagabond","baron","cloud9","rocket","obelisk","bull","dietcola","tradingcard","flashcard","popcorn","sparetrousers","ancient","ramen","arrowhead","onyxagate","glassjoker"],
+              ["showman","flowerpot","blueprint","wee","merryandy","astronomer","burnt","bootstrap","caino","triboulet","yorick","chicot","perkeo","soul","apbelt","aptarot","apspectral"], 
+              ["familiar","grim","incantation","talisman","aura","wraith","sigil","ouija","ectoplasm","immolate","ankh","dejavu","hex","trance","medium","cryptid","blackhole"], //consumables 1, 17
+              ["pluto","mercury","uranus","venus","saturn","jupiter","earth","mars","neptune","planet_x","ceres","eris","fool","magician","highpriestess","empress","emperor"], //comsumables 2, 17
+              ["hierophant","lovers","chariot","justice","hermit","wheeloffortune","strength","hangedman","death","temperance","devil","tower","star","moon","sun","world","judgement"]  //consumables 3, 17
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "voucher_con_grid": {
+    "type": "array",
+    "orientation": "vertical",
+    "margin": "0,0",
+    "content": [
+      {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+          {
+            "type": "itemgrid",
+            "item_margin": "-8,3",
+            "h_alignment": "left",
+            "item_size": 105,
+            "rows": [
+              ["overstock","clearancesale","hone","rerollsurplus","crystalball","telescope","grabber","wasteful"],
+              ["tarotmerchant","planetmerchant","seedmoney","blank","magictrick","hieroglyph","directorscut","paintbrush"],
+            ]
+          },
+          {
+            "type": "itemgrid",
+            "item_margin": "-3,1",
+            "h_alignment": "center",
+            "item_size": 100,
+            "rows": [
+              ["bonusjoker","bonushandsize","bonushands","bonusconsumables","bonusdiscards","bonusstartingcash","bonusmaxinterest"]
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "filler_con_grid": {
+    "type": "array",
+    "orientation": "vertical",
+    "margin": "0,0",
+    "content": [
+      {
+        "type": "array",
+        "orientation": "horizontal",
+        "margin": "0,0",
+        "content": [
+          {
+            "type": "itemgrid",
+            "item_margin": "-4,4",
+            "h_alignment": "left",
+            "item_size": 105,
+            "rows": [
+              ["arcanapack","celestialpack","standardpack","spectralpack","baffoonpack"],
+              ["jumboarcanapack","jumbocelestialpack","jumbostandardpack","jumbospectralpack","jumbobaffoonpack"],
+              ["megaarcanapack","megacelestialpack","megastandardpack","megaspectralpack","megabaffoonpack"]
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "settings_grid": {
+    "type": "array",
+    "orientation": "vertical",
+    "margin": "0,0",
+    "content": [
+      {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+          {
+            "type": "itemgrid",
+            "item_margin": "-3,1",
+            "h_alignment": "left",
+            "item_size": 80,
+            "rows": [
+              ["reddeck","bluedeck","yellowdeck","greendeck","blackdeck","magicdeck","nebuladeck","ghostdeck"],
+              ["abandoneddeck","checkereddeck","zodiacdeck","painteddeck","anaglyphdeck","plasmadeck","erraticdeck"]
+            ]
+          },
+          {
+            "type": "itemgrid",
+            "item_margin": "2,2",
+            "v_alignment":"bottom",
+            "h_alignment": "left",
+            "item_size": 70,
+            "rows": [
+            ["whitestake","redstake","greenstake","blackstake","bluestake","purplestake","orangestake","goldstake"]
+            ]
+          }
+
+        ]
+      }
+    ]
+  }
+}

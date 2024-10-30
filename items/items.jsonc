@@ -1,0 +1,2991 @@
+[
+  //more info: https://github.com/black-sliver/PopTracker/blob/master/doc/PACKS.md#items
+  {
+    "name": "Joker",
+    "type": "toggle",
+    "img": "images/items/jokers/Joker.png",
+    "disabled_img": "images/items/jokers/Joker_Locked.png",
+    "codes": "joker"
+  },
+  {
+    "name": "8 Ball",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "8ball",
+        
+    "img": "images/items/jokers/8_Ball.png",    
+
+  },
+  {
+    "name": "Abstract Joker",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "abstract",
+        
+        "img": "images/items/jokers/Abstract.png",
+
+  },
+  {
+    "name": "Ancient Joker",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "ancient",
+        
+        "img": "images/items/jokers/Ancient_Joker.png",
+
+  },
+  {
+    "name": "Acrobat",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "acrobat",
+        
+        "img": "images/items/jokers/Acrobat.png",
+
+  },
+  {
+    "name": "Arrowhead",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "arrowhead",
+        
+        "img": "images/items/jokers/Arrowhead.png",
+
+  },
+  {
+    "name": "Astronomer",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "astronomer",
+        
+        "img": "images/items/jokers/Astronomer.png",
+
+  },
+  {
+    "name": "Banner",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "banner",
+        
+        "img": "images/items/jokers/Banner.png",
+
+  },
+  {
+    "name": "Baron",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "baron",
+        
+        "img": "images/items/jokers/Baron.png",
+
+  },
+  {
+    "name": "Baseball Card",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "baseballcard",
+        
+        "img": "images/items/jokers/Baseball_Card.png",
+
+  },
+  {
+    "name": "Blackboard",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "blackboard",
+        
+        "img": "images/items/jokers/Blackboard.png",
+
+  },
+  {
+    "name": "Bloodstone",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "bloodstone",
+        
+        "img": "images/items/jokers/Bloodstone.png",
+
+  },
+  {
+    "name": "Stone Joker",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "stone",
+        
+        "img": "images/items/jokers/Stone_Joker.png",
+
+  },
+  {
+    "name": "Blue Joker",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "blue",
+        
+        "img": "images/items/jokers/Blue.png",
+
+  },
+  {
+    "name": "Blueprint",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "blueprint",
+        
+        "img": "images/items/jokers/Blueprint.png",
+
+  }, 
+  {
+    "name": "Bootstrap",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "bootstrap",
+        
+        "img": "images/items/jokers/Boot_Strap.png",
+
+  },
+  {
+    "name": "Brainstorm",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "brainstorm",
+        
+        "img": "images/items/jokers/Brainstorm.png",
+
+  },
+  {
+    "name": "Bull",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "bull",
+        
+        "img": "images/items/jokers/Bull.png",
+
+  },
+  {
+    "name": "Burglar",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "burglar",
+        
+        "img": "images/items/jokers/Burglar.png",
+
+  },
+  {
+    "name": "Burnt Joker",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "burnt",
+        
+        "img": "images/items/jokers/Burnt.png",
+
+  },
+  {
+    "name": "Business Card",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "businesscard",
+        
+        "img": "images/items/jokers/Business_Card.png",
+
+  },
+  {
+    "name": "Caino",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "caino",
+        
+        "img": "images/items/jokers/Caino.png",
+
+  },
+  {
+    "name": "Campfire",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "campfire",
+        
+        "img": "images/items/jokers/Campfire.png",
+
+  },
+  {
+    "name": "Card Sharp",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "cardsharp",
+        
+        "img": "images/items/jokers/Card_Sharp.png",
+
+  },
+  {
+    "name": "Cartomancer",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "cartomancer",
+        
+        "img": "images/items/jokers/Cartomancer.png",
+
+  },
+  {
+    "name": "Castle",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "castle",
+        
+        "img": "images/items/jokers/Castle.png",
+
+  },
+  {
+    "name": "Cavendish",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "cavendish",
+        
+        "img": "images/items/jokers/Cavendish.png",
+
+  },
+  {
+    "name": "Ceremonial Dagger",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "ceremonialdagger",
+        
+        "img": "images/items/jokers/Ceremonial_Dagger.png",
+
+  },
+  {
+    "name": "Certificate",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "certificate",
+        
+        "img": "images/items/jokers/Certificate.png",
+
+  },
+  {
+    "name": "Chaos The Clown",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "chaostheclown",
+        
+        "img": "images/items/jokers/Chaos_The_Clown.png",
+
+  },
+  {
+    "name": "Chicot",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "chicot",
+        
+        "img": "images/items/jokers/Chicot.png",
+
+  },
+  {
+    "name": "Clever Joker",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "clever",
+        
+        "img": "images/items/jokers/Clever.png",
+
+  },
+  {
+    "name": "Cloud 9",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "cloud9",
+        
+        "img": "images/items/jokers/Cloud_9.png",
+
+  },
+  {
+    "name": "Constellation",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "constellation",
+        
+        "img": "images/items/jokers/Constellation.png",
+
+  },
+  {
+    "name": "Crafty Joker",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "crafty",
+        
+        "img": "images/items/jokers/Crafty.png",
+
+  },
+  {
+    "name": "Crazy",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "crazy",
+        
+        "img": "images/items/jokers/Crazy.png",
+
+  },
+  {
+    "name": "Credit Card",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "creditcard",
+        
+        "img": "images/items/jokers/Credit_Card.png",
+
+  },
+  {
+    "name": "Delayed Gratification",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "delayedgratification",
+        
+        "img": "images/items/jokers/Delayed_Gratification.png",
+
+  },
+  {
+    "name": "Devious Joker",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "devious",
+        
+        "img": "images/items/jokers/Devious.png",
+
+  },
+  {
+    "name": "Diet Cola",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "dietcola",
+        
+        "img": "images/items/jokers/Diet_Coke.png",
+
+  },
+  {
+    "name": "DNA",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "dna",
+        
+        "img": "images/items/jokers/DNA.png",
+
+  },
+  {
+    "name": "Drivers License",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "driverslicense",
+        
+        "img": "images/items/jokers/Drivers_License.png",
+
+  },
+  {
+    "name": "Droll Joker",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "droll",
+        
+        "img": "images/items/jokers/Droll.png",
+
+  },
+  {
+    "name": "Drunkard",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "drunkard",
+        
+        "img": "images/items/jokers/Drunkard.png",
+
+  },
+  {
+    "name": "Dusk",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "dusk",
+        
+        "img": "images/items/jokers/Dusk.png",
+
+  },
+  {
+    "name": "Egg",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "egg",
+        
+        "img": "images/items/jokers/Egg.png",
+
+  },
+  {
+    "name": "Erosion",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "erosion",
+        
+        "img": "images/items/jokers/Erosion.png",
+
+  },
+  {
+    "name": "Even Steven",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "evensteven",
+        
+        "img": "images/items/jokers/Even_Steven.png",
+
+  },
+  {
+    "name": "Faceless",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "faceless",
+        
+        "img": "images/items/jokers/Faceless.png",
+
+  },
+  {
+    "name": "Fibonacci",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "fibonacci",
+        
+        "img": "images/items/jokers/Fibonacci.png",
+
+  },
+  {
+    "name": "Flash Card",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "flashcard",
+        
+        "img": "images/items/jokers/Flash_Card.png",
+
+  },
+  {
+    "name": "Flower Pot",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "flowerpot",
+        
+        "img": "images/items/jokers/Flower_Pot.png",
+
+  },
+  {
+    "name": "Fortune Teller",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "fortuneteller",
+        
+        "img": "images/items/jokers/Fortune_Teller.png",
+
+  },
+  {
+    "name": "Four Fingers",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "fourfingers",
+        
+        "img": "images/items/jokers/Four_Fingers.png",
+
+  },
+  {
+    "name": "Gift Card",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "giftcard",
+        
+        "img": "images/items/jokers/Gift_Card.png",
+
+  },
+  {
+    "name": "Glass Joker",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "glassjoker",
+        
+        "img": "images/items/jokers/Glass_Joker.png",
+
+  },
+  {
+    "name": "Gluttonous",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "gluttonous",
+        
+        "img": "images/items/jokers/Gluttonous.png",
+
+  },
+  {
+    "name": "Golden Joker",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "goldenjoker",
+        
+        "img": "images/items/jokers/Golden_Joker.png",
+
+  },
+  {
+    "name": "Golden Ticket",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "goldenticket",
+        
+        "img": "images/items/jokers/Golden_Ticket.png",
+
+  },
+  {
+    "name": "Greedy Joker",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "greedy",
+        
+        "img": "images/items/jokers/Greedy.png",
+
+  },
+  {
+    "name": "Green Joker",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "green",
+        
+        "img": "images/items/jokers/Green.png",
+
+  },
+  {
+    "name": "Gros Michel",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "grosmichel",
+        
+        "img": "images/items/jokers/Gros_Michel.png",
+
+  },
+  {
+    "name": "Hack",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "hack",
+        
+        "img": "images/items/jokers/Hack.png",
+
+  },
+  {
+    "name": "Half Joker",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "half",
+        
+        "img": "images/items/jokers/Half.png",
+
+  },
+  {
+    "name": "Hallucination",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "hallucination",
+        
+        "img": "images/items/jokers/Hallucination.png",
+
+  },
+  {
+    "name": "Hanging Chad",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "hangingchad",
+        
+        "img": "images/items/jokers/Hanging_Chad.png",
+
+  },
+  {
+    "name": "Hiker",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "hiker",
+        
+        "img": "images/items/jokers/Hiker.png",
+
+  },
+  {
+    "name": "Hit the Road",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "hittheroad",
+        
+        "img": "images/items/jokers/Hit_The_Road.png",
+
+  },
+  {
+    "name": "Hologram",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "hologram",
+        
+        "img": "images/items/jokers/Hologram.png",
+
+  },
+  {
+    "name": "Ice Cream",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "icecream",
+        
+        "img": "images/items/jokers/Ice_Cream.png",
+
+  },
+  {
+    "name": "Invisible Joker",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "invisible",
+        
+        "img": "images/items/jokers/Invisible.png",
+
+  },
+  {
+    "name": "Joker Stencil",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "jokerstencil",
+        
+        "img": "images/items/jokers/Joker_Stencil.png",
+
+  },
+  {
+    "name": "Jolly Joker",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "jolly",
+        
+        "img": "images/items/jokers/Jolly.png",
+
+  },
+  {
+    "name": "Juggler",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "juggler",
+        
+        "img": "images/items/jokers/Juggler.png",
+
+  },
+  {
+    "name": "Loyalty Card",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "loyaltycard",
+        
+        "img": "images/items/jokers/Loyalty_Card.png",
+
+  },
+  {
+    "name": "Luchador",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "luchador",
+        
+        "img": "images/items/jokers/Luchador.png",
+
+  },
+  {
+    "name": "Lucky Cat",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "luckycat",
+        
+        "img": "images/items/jokers/Lucky_Cat.png",
+
+  },
+  {
+    "name": "Lusty Joker",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "lusty",
+        
+        "img": "images/items/jokers/Lusty.png",
+
+  },
+  {
+    "name": "Mad Joker",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "mad",
+        
+        "img": "images/items/jokers/Mad.png",
+
+  },
+  {
+    "name": "Madness",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "madness",
+        
+        "img": "images/items/jokers/Madness.png",
+
+  },
+  {
+    "name": "Mail-In Rebate",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "mailinrebate",
+        
+        "img": "images/items/jokers/Mail-In_Rebate.png",
+
+  },
+  {
+    "name": "Marble Joker",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "marblejoker",
+        
+        "img": "images/items/jokers/Marble_Joker.png",
+
+  },
+  {
+    "name": "Matador",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "matador",
+        
+        "img": "images/items/jokers/Matador.png",
+
+  },
+  {
+    "name": "Merry Andy",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "merryandy",
+        
+        "img": "images/items/jokers/Merry_Andy.png",
+
+  },
+  {
+    "name": "Midas Mask",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "midasmask",
+        
+        "img": "images/items/jokers/Midas_Mask.png",
+
+  },
+  {
+    "name": "Mime",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "mime",
+        
+        "img": "images/items/jokers/Mime.png",
+
+  },
+  {
+    "name": "Misprint",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "misprint",
+        
+        "img": "images/items/jokers/Misprint.png",
+
+  },
+  {
+    "name": "Mr. Bones",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "mrbones",
+        
+        "img": "images/items/jokers/Mr_Bones.png",
+
+  },
+  {
+    "name": "Mystic Summit",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "mysticsummit",
+        
+        "img": "images/items/jokers/Mystic_Summit.png",
+
+  },
+  {
+    "name": "Obelisk",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "obelisk",
+        
+        "img": "images/items/jokers/Obelisk.png",
+
+  },
+  {
+    "name": "Odd Todd",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "oddtodd",
+        
+        "img": "images/items/jokers/Odd_Todd.png",
+
+  },
+  {
+    "name": "Onyx Agate",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "onyxagate",
+        
+        "img": "images/items/jokers/Onyx_Agate.png",
+
+  },
+  {
+    "name": "Oops! All 6s",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "oopsall6s",
+        
+        "img": "images/items/jokers/Oops_All_6s.png",
+
+  },
+  {
+    "name": "Pareidolia",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "pareidolia",
+        
+        "img": "images/items/jokers/Pareidolia.png",
+
+  },
+  {
+    "name": "Perkeo",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "perkeo",
+        
+        "img": "images/items/jokers/Perkeo.png",
+
+  },
+  {
+    "name": "Photograph",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "photograph",
+        
+        "img": "images/items/jokers/Photograph.png",
+
+  },
+  {
+    "name": "Popcorn",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "popcorn",
+        
+        "img": "images/items/jokers/Popcorn.png",
+
+  },
+  {
+    "name": "Raised Fist",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "raisedfist",
+        
+        "img": "images/items/jokers/Raised_Fist.png",
+
+  },
+  {
+    "name": "Ramen",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "ramen",
+        
+        "img": "images/items/jokers/Ramen.png",
+
+  },
+  {
+    "name": "Red Card",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "redcard",
+        
+        "img": "images/items/jokers/Red_Card.png",
+
+  },
+  {
+    "name": "Reserved Parking",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "reservedparking",
+        
+        "img": "images/items/jokers/Reserved_Parking.png",
+
+  },
+  {
+    "name": "Ride the Bus",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "ridethebus",
+        
+        "img": "images/items/jokers/Ride_The_Bus.png",
+
+  },
+  {
+    "name": "Riff-Raff",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "riffraff",
+        
+        "img": "images/items/jokers/Riff-Raff.png",
+
+  },
+  {
+    "name": "Rocket",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "rocket",
+        
+        "img": "images/items/jokers/Rocket.png",
+
+  },
+  {
+    "name": "Rough Gem",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "roughgem",
+        
+        "img": "images/items/jokers/Rough_Gem.png",
+
+  },
+  {
+    "name": "Runner",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "runner",
+        
+        "img": "images/items/jokers/Runner.png",
+
+  },
+  {
+    "name": "Satelite",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "satelite",
+        
+        "img": "images/items/jokers/Satelite.png",
+
+  },
+  {
+    "name": "Scary Face",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "scaryface",
+        
+        "img": "images/items/jokers/Scary_Face.png",
+
+  },
+  {
+    "name": "Scholar",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "scholar",
+        
+        "img": "images/items/jokers/Scholar.png",
+
+  },
+  {
+    "name": "Séance",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "seance",
+        
+        "img": "images/items/jokers/Seance.png",
+
+  },
+  {
+    "name": "Seeing Double",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "seeingdouble",
+        
+        "img": "images/items/jokers/Seeing_Double.png",
+
+  },
+  {
+    "name": "Seltzer",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "seltzer",
+        
+        "img": "images/items/jokers/Seltzer.png",
+
+  },
+  {
+    "name": "Shoot the Moon",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "shootthemoon",
+        
+        "img": "images/items/jokers/Shoot_The_Moon.png",
+
+  },
+  {
+    "name": "Shortcut",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "shortcut",
+        
+        "img": "images/items/jokers/Shortcut.png",
+
+  },
+  {
+    "name": "Showman",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "showman",
+        
+        "img": "images/items/jokers/Showman.png",
+
+  },
+  {
+    "name": "Sixth Sense",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "sixthsense",
+        
+        "img": "images/items/jokers/Sixth_Sense.png",
+
+  },
+  {
+    "name": "Sly Joker",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "sly",
+        
+        "img": "images/items/jokers/Sly.png",
+
+  },
+  {
+    "name": "Smeared Joker",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "smeared",
+        
+        "img": "images/items/jokers/Smeared.png",
+
+  },
+  {
+    "name": "Smiley Face",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "smileyface",
+        
+        "img": "images/items/jokers/Smiley_Face.png",
+
+  },
+  {
+    "name": "Sock and Buskin",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "sockandbuskin",
+        
+        "img": "images/items/jokers/Sock_And_Buskin.png",
+
+  },
+  {
+    "name": "Space Joker",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "spacejoker",
+        
+        "img": "images/items/jokers/Space_Joker.png",
+
+  },
+  {
+    "name": "Spare Trousers",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "sparetrousers",
+        
+        "img": "images/items/jokers/Spare_Trousers.png",
+
+  },
+  {
+    "name": "Splash",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "splash",
+        
+        "img": "images/items/jokers/Splash.png",
+
+  },
+  {
+    "name": "Square Joker",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "square",
+        
+        "img": "images/items/jokers/Square.png",
+
+  },
+  {
+    "name": "Steel Joker",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "steeljoker",
+        
+        "img": "images/items/jokers/Steel_Joker.png",
+
+  },
+  {
+    "name": "Stunt Man",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "stuntman",
+        
+        "img": "images/items/jokers/Stunt_Man.png",
+
+  },
+  {
+    "name": "Supernova",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "supernova",
+        
+        "img": "images/items/jokers/Supernova.png",
+
+  },
+  {
+    "name": "Superposition",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "superposition",
+        
+        "img": "images/items/jokers/Superposition.png",
+
+  },
+  {
+    "name": "Swashbuckler",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "swashbuckler",
+        
+        "img": "images/items/jokers/Swashbuckler.png",
+
+  },
+  {
+    "name": "The Duo",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "theduo",
+        
+        "img": "images/items/jokers/The_Duo.png",
+
+  },
+  {
+    "name": "The Family",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "thefamily",
+        
+        "img": "images/items/jokers/The_Family.png",
+
+  },
+  {
+    "name": "The Idol",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "theidol",
+        
+        "img": "images/items/jokers/The_Idol.png",
+
+  },
+  {
+    "name": "The Order",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "theorder",
+        
+        "img": "images/items/jokers/The_Order.png",
+
+  },
+  {
+    "name": "The Tribe",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "thetribe",
+        
+        "img": "images/items/jokers/The_Tribe.png",
+
+  },
+  {
+    "name": "The Trio",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "thetrio",
+        
+        "img": "images/items/jokers/The_Trio.png",
+
+  },
+  {
+    "name": "Throwback",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "throwback",
+        
+        "img": "images/items/jokers/Throwback.png",
+
+  },
+  {
+    "name": "To Do List",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "todolist",
+        
+        "img": "images/items/jokers/To_Do_List.png",
+
+  },
+  {
+    "name": "To the Moon",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "tothemoon",
+        
+        "img": "images/items/jokers/To_The_Moon.png",
+
+  },
+  {
+    "name": "Trading Card",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "tradingcard",
+        
+        "img": "images/items/jokers/Trading_Card.png",
+
+  },
+  {
+    "name": "Triboulet",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "triboulet",
+        
+        "img": "images/items/jokers/Triboulet.png",
+
+  },
+  {
+    "name": "Troubadour",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "troubadour",
+        
+        "img": "images/items/jokers/Troubadour.png",
+
+  },
+  {
+    "name": "Turtle Bean",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "turtlebean",
+        
+        "img": "images/items/jokers/Turtle_Bean.png",
+
+  },
+  {
+    "name": "Vagabond",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "vagabond",
+        
+        "img": "images/items/jokers/Vagabond.png",
+
+  },
+  {
+    "name": "Vampire",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "vampire",
+        
+        "img": "images/items/jokers/Vampire.png",
+
+  },
+  {
+    "name": "Walkie Talkie",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "walkietalkie",
+        
+        "img": "images/items/jokers/Walkie_Talkie.png",
+
+  },
+  {
+    "name": "Wee Joker",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "wee",
+        
+        "img": "images/items/jokers/Wee.png",
+
+  },
+  {
+    "name": "Wily Joker",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "wily",
+        
+        "img": "images/items/jokers/Wily.png",
+
+  },
+  {
+    "name": "Wrathful",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "wrathful",
+        
+        "img": "images/items/jokers/Wrathful.png",
+
+  },
+  {
+    "name": "Yorick",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "yorick",
+        
+        "img": "images/items/jokers/Yorick.png",
+
+  },
+  {
+    "name": "Zany Joker",
+    "type": "toggle",
+
+        "disabled_img": "images/items/jokers/Joker_Locked.png",
+        "codes": "zany",
+        
+        "img": "images/items/jokers/Zany.png",
+
+  },
+  {
+    "name": "Soul",
+    "type": "toggle",
+    "disabled_img": "images/items/consumables/Spectral.png",
+    "codes": "soul", 
+    "img": "images/items/consumables/Soul.png"
+  },
+  {
+    "name": "Ankh",
+    "type": "toggle",
+    "disabled_img": "images/items/consumables/Spectral.png",
+    "codes": "ankh", 
+    "img": "images/items/consumables/Ankh.png"
+  },
+  {
+    "name": "Aura",
+    "type": "toggle",
+    "disabled_img": "images/items/consumables/Spectral.png",
+    "codes": "aura", 
+    "img": "images/items/consumables/Aura.png"
+  },
+  {
+    "name": "Cryptid",
+    "type": "toggle",
+    "disabled_img": "images/items/consumables/Spectral.png",
+    "codes": "cryptid", 
+    "img": "images/items/consumables/Cryptid.png"
+  }, 
+  {
+    "name": "Deja Vu",
+    "type": "toggle",
+    "disabled_img": "images/items/consumables/Spectral.png",
+    "codes": "dejavu", 
+    "img": "images/items/consumables/Deja_Vu.png"
+  }, 
+  {
+    "name": "Ectoplasm",
+    "type": "toggle",
+    "disabled_img": "images/items/consumables/Spectral.png",
+    "codes": "ectoplasm", 
+    "img": "images/items/consumables/Ectoplasm.png"
+  }, 
+  {
+    "name": "Familiar",
+    "type": "toggle",
+    "disabled_img": "images/items/consumables/Spectral.png",
+    "codes": "familiar", 
+    "img": "images/items/consumables/Familiar.png"
+  }, 
+  {
+    "name": "Grim",
+    "type": "toggle",
+    "disabled_img": "images/items/consumables/Spectral.png",
+    "codes": "grim", 
+    "img": "images/items/consumables/Grim.png"
+  }, 
+  {
+    "name": "Hex",
+    "type": "toggle",
+    "disabled_img": "images/items/consumables/Spectral.png",
+    "codes": "hex", 
+    "img": "images/items/consumables/Hex.png"
+  }, 
+  {
+    "name": "Immolate",
+    "type": "toggle",
+    "disabled_img": "images/items/consumables/Spectral.png",
+    "codes": "immolate", 
+    "img": "images/items/consumables/Immolate.png"
+  }, 
+  {
+    "name": "Incantation",
+    "type": "toggle",
+    "disabled_img": "images/items/consumables/Spectral.png",
+    "codes": "incantation", 
+    "img": "images/items/consumables/Incantation.png"
+  }, 
+  {
+    "name": "Medium",
+    "type": "toggle",
+    "disabled_img": "images/items/consumables/Spectral.png",
+    "codes": "medium", 
+    "img": "images/items/consumables/Medium.png"
+  }, 
+  {
+    "name": "Ouija",
+    "type": "toggle",
+    "disabled_img": "images/items/consumables/Spectral.png",
+    "codes": "ouija", 
+    "img": "images/items/consumables/Ouija.png"
+  }, 
+  {
+    "name": "Sigil",
+    "type": "toggle",
+    "disabled_img": "images/items/consumables/Spectral.png",
+    "codes": "sigil", 
+    "img": "images/items/consumables/Sigil.png"
+  }, 
+  {
+    "name": "Talisman",
+    "type": "toggle",
+    "disabled_img": "images/items/consumables/Spectral.png",
+    "codes": "talisman", 
+    "img": "images/items/consumables/Talisman.png"
+  }, 
+  {
+    "name": "Trance",
+    "type": "toggle",
+    "disabled_img": "images/items/consumables/Spectral.png",
+    "codes": "trance", 
+    "img": "images/items/consumables/Trance.png"
+  }, 
+  {
+    "name": "Wraith",
+    "type": "toggle",
+    "disabled_img": "images/items/consumables/Spectral.png",
+    "codes": "wraith", 
+    "img": "images/items/consumables/Wraith.png"
+  },
+  {
+    "name": "Archipelago Spectral",
+    "type": "toggle",
+    "disabled_img": "images/items/consumables/Spectral.png",
+    "codes": "apspectral", 
+    "img": "images/items/consumables/AP_Spectral.png"
+  },
+  {
+    "name": "Black Hole",
+    "type": "toggle",
+    "disabled_img": "images/items/consumables/Planet.png",
+    "codes": "blackhole", 
+    "img": "images/items/consumables/Black_Hole.png"
+  },
+  {
+    "name": "Ceres",
+    "type": "toggle",
+    "disabled_img": "images/items/consumables/Planet.png",
+    "codes": "ceres", 
+    "img": "images/items/consumables/Ceres.png"
+  },
+  {
+    "name": "Earth",
+    "type": "toggle",
+    "disabled_img": "images/items/consumables/Planet.png",
+    "codes": "earth", 
+    "img": "images/items/consumables/Earth.png"
+  },
+  {
+    "name": "Eris",
+    "type": "toggle",
+    "disabled_img": "images/items/consumables/Planet.png",
+    "codes": "eris", 
+    "img": "images/items/consumables/Eris.png"
+  },
+  {
+    "name": "Jupiter",
+    "type": "toggle",
+    "disabled_img": "images/items/consumables/Planet.png",
+    "codes": "jupiter", 
+    "img": "images/items/consumables/Jupiter.png"
+  },
+  {
+    "name": "Mars",
+    "type": "toggle",
+    "disabled_img": "images/items/consumables/Planet.png",
+    "codes": "mars", 
+    "img": "images/items/consumables/Mars.png"
+  },
+  {
+    "name": "Mercury",
+    "type": "toggle",
+    "disabled_img": "images/items/consumables/Planet.png",
+    "codes": "mercury", 
+    "img": "images/items/consumables/Mercury.png"
+  },
+  {
+    "name": "Neptune",
+    "type": "toggle",
+    "disabled_img": "images/items/consumables/Planet.png",
+    "codes": "neptune", 
+    "img": "images/items/consumables/Neptune.png"
+  },
+  {
+    "name": "Planet X",
+    "type": "toggle",
+    "disabled_img": "images/items/consumables/Planet.png",
+    "codes": "planet_x", 
+    "img": "images/items/consumables/Planet_X.png"
+  },
+  {
+    "name": "Pluto",
+    "type": "toggle",
+    "disabled_img": "images/items/consumables/Planet.png",
+    "codes": "pluto", 
+    "img": "images/items/consumables/Pluto.png"
+  },
+  {
+    "name": "Saturn",
+    "type": "toggle",
+    "disabled_img": "images/items/consumables/Planet.png",
+    "codes": "saturn", 
+    "img": "images/items/consumables/Saturn.png"
+  },
+  {
+    "name": "Uranus",
+    "type": "toggle",
+    "disabled_img": "images/items/consumables/Planet.png",
+    "codes": "uranus", 
+    "img": "images/items/consumables/Uranus.png"
+  },
+  {
+    "name": "Venus",
+    "type": "toggle",
+    "disabled_img": "images/items/consumables/Planet.png",
+    "codes": "venus", 
+    "img": "images/items/consumables/Venus.png"
+  },
+  {
+    "name": "Archipelago Belt",
+    "type": "toggle",
+    "disabled_img": "images/items/consumables/Planet.png",
+    "codes": "apbelt", 
+    "img": "images/items/consumables/AP_Belt.png"
+  },
+  {
+    "name": "Death",
+    "type": "toggle",
+    "disabled_img": "images/items/consumables/Tarot.png",
+    "codes": "death", 
+    "img": "images/items/consumables/Death.png"
+  },
+  {
+    "name": "The Chariot",
+    "type": "toggle",
+    "disabled_img": "images/items/consumables/Tarot.png",
+    "codes": "chariot", 
+    "img": "images/items/consumables/Chariot.png"
+  },
+  {
+    "name": "The Devil",
+    "type": "toggle",
+    "disabled_img": "images/items/consumables/Tarot.png",
+    "codes": "devil", 
+    "img": "images/items/consumables/death.png"
+  },
+  {
+    "name": "The Emperor",
+    "type": "toggle",
+    "disabled_img": "images/items/consumables/Tarot.png",
+    "codes": "emperor", 
+    "img": "images/items/consumables/Emperor.png"
+  },
+  {
+    "name": "The Empress",
+    "type": "toggle",
+    "disabled_img": "images/items/consumables/Tarot.png",
+    "codes": "empress", 
+    "img": "images/items/consumables/Empress.png"
+  },
+  {
+    "name": "The Fool",
+    "type": "toggle",
+    "disabled_img": "images/items/consumables/Tarot.png",
+    "codes": "fool", 
+    "img": "images/items/consumables/Fool.png"
+  },
+  {
+    "name": "The Hanged Man",
+    "type": "toggle",
+    "disabled_img": "images/items/consumables/Tarot.png",
+    "codes": "hangedman", 
+    "img": "images/items/consumables/Hanged_Man.png"
+  },
+  {
+    "name": "The Hermit",
+    "type": "toggle",
+    "disabled_img": "images/items/consumables/Tarot.png",
+    "codes": "hermit", 
+    "img": "images/items/consumables/Hermit.png"
+  },
+  {
+    "name": "The Hierophant",
+    "type": "toggle",
+    "disabled_img": "images/items/consumables/Tarot.png",
+    "codes": "hierophant", 
+    "img": "images/items/consumables/Hierophant.png"
+  },
+  {
+    "name": "The High Priestess",
+    "type": "toggle",
+    "disabled_img": "images/items/consumables/Tarot.png",
+    "codes": "highpriestess", 
+    "img": "images/items/consumables/High_Priestess.png"
+  },
+  {
+    "name": "Judgement",
+    "type": "toggle",
+    "disabled_img": "images/items/consumables/Tarot.png",
+    "codes": "judgement", 
+    "img": "images/items/consumables/Judgement.png"
+  },
+  {
+    "name": "Justice",
+    "type": "toggle",
+    "disabled_img": "images/items/consumables/Tarot.png",
+    "codes": "justice", 
+    "img": "images/items/consumables/Justice.png"
+  },
+  {
+    "name": "The Lovers",
+    "type": "toggle",
+    "disabled_img": "images/items/consumables/Tarot.png",
+    "codes": "lovers", 
+    "img": "images/items/consumables/Lovers.png"
+  },
+  {
+    "name": "The Magician",
+    "type": "toggle",
+    "disabled_img": "images/items/consumables/Tarot.png",
+    "codes": "magician", 
+    "img": "images/items/consumables/Magician.png"
+  },
+  {
+    "name": "The Moon",
+    "type": "toggle",
+    "disabled_img": "images/items/consumables/Tarot.png",
+    "codes": "moon", 
+    "img": "images/items/consumables/Moon.png"
+  },
+  {
+    "name": "The Star",
+    "type": "toggle",
+    "disabled_img": "images/items/consumables/Tarot.png",
+    "codes": "star", 
+    "img": "images/items/consumables/Star.png"
+  },
+  {
+    "name": "Strength",
+    "type": "toggle",
+    "disabled_img": "images/items/consumables/Tarot.png",
+    "codes": "strength", 
+    "img": "images/items/consumables/Strength.png"
+  },
+  {
+    "name": "The Sun",
+    "type": "toggle",
+    "disabled_img": "images/items/consumables/Tarot.png",
+    "codes": "sun", 
+    "img": "images/items/consumables/Sun.png"
+  },
+  {
+    "name": "The Tower",
+    "type": "toggle",
+    "disabled_img": "images/items/consumables/Tarot.png",
+    "codes": "tower", 
+    "img": "images/items/consumables/Tower.png"
+  },
+  {
+    "name": "Temperance",
+    "type": "toggle",
+    "disabled_img": "images/items/consumables/Tarot.png",
+    "codes": "temperance", 
+    "img": "images/items/consumables/Temperance.png"
+  },
+  {
+    "name": "Wheel of Fortune",
+    "type": "toggle",
+    "disabled_img": "images/items/consumables/Tarot.png",
+    "codes": "wheeloffortune", 
+    "img": "images/items/consumables/Wheel_Of_Fortune.png"
+  },
+  {
+    "name": "The World",
+    "type": "toggle",
+    "disabled_img": "images/items/consumables/Tarot.png",
+    "codes": "world", 
+    "img": "images/items/consumables/World.png"
+  },
+  {
+    "name": "Archipelago Tarot",
+    "type": "toggle",
+    "disabled_img": "images/items/consumables/Tarot.png",
+    "codes": "aptarot", 
+    "img": "images/items/consumables/AP_Tarot.png"
+  },
+  {
+    "name": "Red Deck",
+    "type": "toggle",
+    "codes": "reddeck", 
+    "img": "images/items/decks/Red_Deck.png"
+  },
+  {
+    "name": "Blue Deck",
+    "type": "toggle",
+    "codes": "bluedeck", 
+    "img": "images/items/decks/Blue_Deck.png"
+  },
+  {
+    "name": "Yellow Deck",
+    "type": "toggle",
+    "codes": "yellowdeck", 
+    "img": "images/items/decks/Yellow_Deck.png"
+  },
+  {
+    "name": "Green Deck",
+    "type": "toggle",
+    "codes": "greendeck", 
+    "img": "images/items/decks/Green_Deck.png"
+  },
+  {
+    "name": "Black Deck",
+    "type": "toggle",
+    "codes": "blackdeck", 
+    "img": "images/items/decks/Black_Deck.png"
+  },
+  {
+    "name": "Magic Deck",
+    "type": "toggle",
+    "codes": "magicdeck", 
+    "img": "images/items/decks/Magic_Deck.png"
+  },
+  {
+    "name": "Nebula Deck",
+    "type": "toggle",
+    "codes": "nebuladeck", 
+    "img": "images/items/decks/Nebula_Deck.png"
+  },
+  {
+    "name": "Ghost Deck",
+    "type": "toggle",
+    "codes": "ghostdeck", 
+    "img": "images/items/decks/Ghost_Deck.png"
+  },
+  {
+    "name": "Abandoned Deck",
+    "type": "toggle",
+    "codes": "abandoneddeck", 
+    "img": "images/items/decks/Abandoned_Deck.png"
+  },
+  {
+    "name": "Checkered Deck",
+    "type": "toggle",
+    "codes": "checkereddeck", 
+    "img": "images/items/decks/Checkered_Deck.png"
+  },
+  {
+    "name": "Zodiac Deck",
+    "type": "toggle",
+    "codes": "zodiacdeck", 
+    "img": "images/items/decks/Zodiac_Deck.png"
+  },
+  {
+    "name": "Painted Deck",
+    "type": "toggle",
+    "codes": "painteddeck", 
+    "img": "images/items/decks/Painted_Deck.png"
+  },
+  {
+    "name": "Anaglyph Deck",
+    "type": "toggle",
+    "codes": "anaglyphdeck", 
+    "img": "images/items/decks/Anaglyph_Deck.png"
+  },
+  {
+    "name": "Plasma Deck",
+    "type": "toggle",
+    "codes": "plasmadeck", 
+    "img": "images/items/decks/Plasma_Deck.png"
+  },
+  {
+    "name": "Erratic Deck",
+    "type": "toggle",
+    "codes": "erraticdeck", 
+    "img": "images/items/decks/Erratic_Deck.png"
+  },
+  {
+    "name": "White Stake",
+    "type": "toggle",
+    "codes": "whitestake", 
+    "img": "images/items/stakes/White_stake.png"
+  },
+  {
+    "name": "Red Stake",
+    "type": "toggle",
+    "codes": "redstake", 
+    "img": "images/items/stakes/Red_stake.png"
+  },
+  {
+    "name": "Green Stake",
+    "type": "toggle",
+    "codes": "greenstake", 
+    "img": "images/items/stakes/Green_stake.png"
+  },
+  {
+    "name": "Black Stake",
+    "type": "toggle",
+    "codes": "blackstake", 
+    "img": "images/items/stakes/Black_stake.png"
+  },
+  {
+    "name": "Blue Stake",
+    "type": "toggle",
+    "codes": "bluestake", 
+    "img": "images/items/stakes/Blue_stake.png"
+  },
+  {
+    "name": "Purple Stake",
+    "type": "toggle",
+    "codes": "purplestake", 
+    "img": "images/items/stakes/Purple_stake.png"
+  },
+  {
+    "name": "Orange Stake",
+    "type": "toggle",
+    "codes": "orangestake", 
+    "img": "images/items/stakes/Orange_stake.png"
+  },
+  {
+    "name": "Gold Stake",
+    "type": "toggle",
+    "codes": "goldstake", 
+    "img": "images/items/stakes/Gold_stake.png"
+  },
+  {
+    "name": "Joker Bundle 1",
+    "type": "toggle",
+    "codes": "jb1", 
+    "img": "images/items/AP_Shop.png"
+  },
+  {
+    "name": "Joker Bundle 2",
+    "type": "toggle",
+    "codes": "jb2", 
+    "img": "images/items/AP_Shop.png"
+  },
+  {
+    "name": "Joker Bundle 3",
+    "type": "toggle",
+    "codes": "jb3", 
+    "img": "images/items/AP_Shop.png"
+  },
+  {
+    "name": "Joker Bundle 4",
+    "type": "toggle",
+    "codes": "jb4", 
+    "img": "images/items/AP_Shop.png"
+  },
+  {
+    "name": "Joker Bundle 5",
+    "type": "toggle",
+    "codes": "jb5", 
+    "img": "images/items/AP_Shop.png"
+  },
+  {
+    "name": "Joker Bundle 6",
+    "type": "toggle",
+    "codes": "jb6", 
+    "img": "images/items/AP_Shop.png"
+  },
+  {
+    "name": "Joker Bundle 7",
+    "type": "toggle",
+    "codes": "jb7", 
+    "img": "images/items/AP_Shop.png"
+  },
+  {
+    "name": "Joker Bundle 8",
+    "type": "toggle",
+    "codes": "jb8", 
+    "img": "images/items/AP_Shop.png"
+  },
+  {
+    "name": "Joker Bundle 9",
+    "type": "toggle",
+    "codes": "jb9", 
+    "img": "images/items/AP_Shop.png"
+  },
+  {
+    "name": "Joker Bundle 10",
+    "type": "toggle",
+    "codes": "jb10", 
+    "img": "images/items/AP_Shop.png"
+  },
+  {
+    "name": "Joker Bundle 11",
+    "type": "toggle",
+    "codes": "jb11", 
+    "img": "images/items/AP_Shop.png"
+  },
+  {
+    "name": "Joker Bundle 12",
+    "type": "toggle",
+    "codes": "jb12", 
+    "img": "images/items/AP_Shop.png"
+  },
+  {
+    "name": "Joker Bundle 13",
+    "type": "toggle",
+    "codes": "jb13", 
+    "img": "images/items/AP_Shop.png"
+  },
+  {
+    "name": "Joker Bundle 14",
+    "type": "toggle",
+    "codes": "jb14", 
+    "img": "images/items/AP_Shop.png"
+  },
+  {
+    "name": "Joker Bundle 15",
+    "type": "toggle",
+    "codes": "jb15", 
+    "img": "images/items/AP_Shop.png"
+  },
+  {
+    "name": "Joker Bundle 16",
+    "type": "toggle",
+    "codes": "jb16", 
+    "img": "images/items/AP_Shop.png"
+  },
+  {
+    "name": "Joker Bundle 17",
+    "type": "toggle",
+    "codes": "jb17", 
+    "img": "images/items/AP_Shop.png"
+  },
+  {
+    "name": "Joker Bundle 18",
+    "type": "toggle",
+    "codes": "jb18", 
+    "img": "images/items/AP_Shop.png"
+  },
+  {
+    "name": "Joker Bundle 19",
+    "type": "toggle",
+    "codes": "jb19", 
+    "img": "images/items/AP_Shop.png"
+  },
+  {
+    "name": "Joker Bundle 20",
+    "type": "toggle",
+    "codes": "jb20", 
+    "img": "images/items/AP_Shop.png"
+  },
+  {
+    "name": "Joker Bundle 21",
+    "type": "toggle",
+    "codes": "jb21", 
+    "img": "images/items/AP_Shop.png"
+  },
+  {
+    "name": "Joker Bundle 22",
+    "type": "toggle",
+    "codes": "jb22", 
+    "img": "images/items/AP_Shop.png"
+  },
+  {
+    "name": "Joker Bundle 23",
+    "type": "toggle",
+    "codes": "jb23", 
+    "img": "images/items/AP_Shop.png"
+  },
+  {
+    "name": "Joker Bundle 24",
+    "type": "toggle",
+    "codes": "jb24", 
+    "img": "images/items/AP_Shop.png"
+  },
+  {
+    "name": "Joker Bundle 25",
+    "type": "toggle",
+    "codes": "jb25", 
+    "img": "images/items/AP_Shop.png"
+  },
+  {
+    "name": "Joker Bundle 26",
+    "type": "toggle",
+    "codes": "jb26", 
+    "img": "images/items/AP_Shop.png"
+  },
+  {
+    "name": "Joker Bundle 27",
+    "type": "toggle",
+    "codes": "jb27", 
+    "img": "images/items/AP_Shop.png"
+  },
+  {
+    "name": "Joker Bundle 28",
+    "type": "toggle",
+    "codes": "jb28", 
+    "img": "images/items/AP_Shop.png"
+  },
+  {
+    "name": "Joker Bundle 29",
+    "type": "toggle",
+    "codes": "jb29", 
+    "img": "images/items/AP_Shop.png"
+  },
+  {
+    "name": "Joker Bundle 30",
+    "type": "toggle",
+    "codes": "jb30", 
+    "img": "images/items/AP_Shop.png"
+  },
+  {
+    "name": "Tarot Bundle",
+    "type": "toggle",
+    "codes": "tb0", 
+    "img": "images/items/AP_Shop.png"
+  },
+  {
+    "name": "Tarot Bundle 1",
+    "type": "toggle",
+    "codes": "tb1", 
+    "img": "images/items/AP_Shop.png"
+  },
+  {
+    "name": "Tarot Bundle 2",
+    "type": "toggle",
+    "codes": "tb2", 
+    "img": "images/items/AP_Shop.png"
+  },
+  {
+    "name": "Tarot Bundle 3",
+    "type": "toggle",
+    "codes": "tb3", 
+    "img": "images/items/AP_Shop.png"
+  },
+  {
+    "name": "Tarot Bundle 4",
+    "type": "toggle",
+    "codes": "tb4", 
+    "img": "images/items/AP_Shop.png"
+  },
+  {
+    "name": "Tarot Bundle 5",
+    "type": "toggle",
+    "codes": "tb5", 
+    "img": "images/items/AP_Shop.png"
+  },
+  {
+    "name": "Spectral Bundle",
+    "type": "toggle",
+    "codes": "sb0", 
+    "img": "images/items/AP_Shop.png"
+  },
+  {
+    "name": "Spectral Bundle 1",
+    "type": "toggle",
+    "codes": "sb1", 
+    "img": "images/items/AP_Shop.png"
+  },
+  {
+    "name": "Spectral Bundle 2",
+    "type": "toggle",
+    "codes": "sb2", 
+    "img": "images/items/AP_Shop.png"
+  },
+  {
+    "name": "Spectral Bundle 3",
+    "type": "toggle",
+    "codes": "sb3", 
+    "img": "images/items/AP_Shop.png"
+  },
+  {
+    "name": "Spectral Bundle 4",
+    "type": "toggle",
+    "codes": "sb4", 
+    "img": "images/items/AP_Shop.png"
+  },
+  {
+    "name": "Spectral Bundle 5",
+    "type": "toggle",
+    "codes": "sb5", 
+    "img": "images/items/AP_Shop.png"
+  },
+  {
+    "name": "Planet Bundle",
+    "type": "toggle",
+    "codes": "pb0", 
+    "img": "images/items/AP_Shop.png"
+  },
+  {
+    "name": "Planet Bundle 1",
+    "type": "toggle",
+    "codes": "pb1", 
+    "img": "images/items/AP_Shop.png"
+  },
+  {
+    "name": "Planet Bundle 2",
+    "type": "toggle",
+    "codes": "pb2", 
+    "img": "images/items/AP_Shop.png"
+  },
+  {
+    "name": "Planet Bundle 3",
+    "type": "toggle",
+    "codes": "pb3", 
+    "img": "images/items/AP_Shop.png"
+  },
+  {
+    "name": "Planet Bundle 4",
+    "type": "toggle",
+    "codes": "pb4", 
+    "img": "images/items/AP_Shop.png"
+  },
+  {
+    "name": "Planet Bundle 5",
+    "type": "toggle",
+    "codes": "pb5", 
+    "img": "images/items/AP_Shop.png"
+  },
+  {
+    "name": "Overstock / Overstock Plus",
+    "type": "progressive",
+    "codes": "overstock",
+    "allow_disabled": true, 
+    "img": "images/items/vouchers/Empty.png",
+    "disabled_img": "images/items/vouchers/Empty.png",
+    "stages": [
+      {
+        "img": "images/items/vouchers/Overstock.png",
+        "disabled_img": "images/items/vouchers/Empty.png",
+        "codes": "_1",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/vouchers/Overstock_Plus.png",
+        "codes": "_2",
+        "inherit_codes": true
+      }
+    ]
+  },
+  {
+    "name": "Clearance Sale / Liquidation",
+    "type": "progressive",
+    "codes": "clearancesale",
+    "allow_disabled": true, 
+    "img": "images/items/vouchers/Empty.png",
+    "disabled_img": "images/items/vouchers/Empty.png",
+    "stages": [
+      {
+        "img": "images/items/vouchers/Clearance_Sale.png",
+        "disabled_img": "images/items/vouchers/Empty.png",
+        "codes": "_1",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/vouchers/Liquidation.png",
+        "codes": "_2",
+        "inherit_codes": true
+      }
+    ]
+  },
+  {
+    "name": "Hone / Glow Up",
+    "type": "progressive",
+    "codes": "hone",
+    "allow_disabled": true, 
+    "img": "images/items/vouchers/Empty.png",
+    "disabled_img": "images/items/vouchers/Empty.png",
+    "stages": [
+      {
+        "img": "images/items/vouchers/Hone.png",
+        "disabled_img": "images/items/vouchers/Empty.png",
+        "codes": "_1",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/vouchers/Glow_Up.png",
+        "codes": "_2",
+        "inherit_codes": true
+      }
+    ]
+  },
+  {
+    "name": "Reroll Surplus / Glut",
+    "type": "progressive",
+    "codes": "rerollsurplus",
+    "allow_disabled": true, 
+    "img": "images/items/vouchers/Empty.png",
+    "disabled_img": "images/items/vouchers/Empty.png",
+    "stages": [
+      {
+        "img": "images/items/vouchers/Reroll_Surplus.png",
+        "disabled_img": "images/items/vouchers/Empty.png",
+        "codes": "_1",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/vouchers/Reroll_Glut.png",
+        "codes": "_2",
+        "inherit_codes": true
+      }
+    ]
+  },
+  {
+    "name": "Crystal Ball / Omen Globe",
+    "type": "progressive",
+    "codes": "crystalball",
+    "allow_disabled": true, 
+    "img": "images/items/vouchers/Empty.png",
+    "disabled_img": "images/items/vouchers/Empty.png",
+    "stages": [
+      {
+        "img": "images/items/vouchers/Crystal_Ball.png",
+        "disabled_img": "images/items/vouchers/Empty.png",
+        "codes": "_1",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/vouchers/Omen_Globe.png",
+        "codes": "_2",
+        "inherit_codes": true
+      }
+    ]
+  },
+  {
+    "name": "Telescope / Observatory",
+    "type": "progressive",
+    "codes": "telescope",
+    "allow_disabled": true, 
+    "img": "images/items/vouchers/Empty.png",
+    "disabled_img": "images/items/vouchers/Empty.png",
+    "stages": [
+      {
+        "img": "images/items/vouchers/Telescope.png",
+        "disabled_img": "images/items/vouchers/Empty.png",
+        "codes": "_1",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/vouchers/Observatory.png",
+        "codes": "_2",
+        "inherit_codes": true
+      }
+    ]
+  },
+  {
+    "name": "Grabber / Nacho Tong",
+    "type": "progressive",
+    "codes": "grabber",
+    "allow_disabled": true, 
+    "img": "images/items/vouchers/Empty.png",
+    "disabled_img": "images/items/vouchers/Empty.png",
+    "stages": [
+      {
+        "img": "images/items/vouchers/Grabber.png",
+        "disabled_img": "images/items/vouchers/Empty.png",
+        "codes": "_1",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/vouchers/Nacho_Tong.png",
+        "codes": "_2",
+        "inherit_codes": true
+      }
+    ]
+  },
+  {
+    "name": "Wasteful / Recyclomancy",
+    "type": "progressive",
+    "codes": "wasteful",
+    "allow_disabled": true, 
+    "img": "images/items/vouchers/Empty.png",
+    "disabled_img": "images/items/vouchers/Empty.png",
+    "stages": [
+      {
+        "img": "images/items/vouchers/Wasteful.png",
+        "disabled_img": "images/items/vouchers/Empty.png",
+        "codes": "_1",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/vouchers/Recyclomancy.png",
+        "codes": "_2",
+        "inherit_codes": true
+      }
+    ]
+  },
+  {
+    "name": "Tarot Merchant / Tycoon",
+    "type": "progressive",
+    "codes": "tarotmerchant",
+    "allow_disabled": true, 
+    "img": "images/items/vouchers/Empty.png",
+    "disabled_img": "images/items/vouchers/Empty.png",
+    "stages": [
+      {
+        "img": "images/items/vouchers/Tarot_Merchant.png",
+        "disabled_img": "images/items/vouchers/Empty.png",
+        "codes": "_1",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/vouchers/Tarot_Tycoon.png",
+        "codes": "_2",
+        "inherit_codes": true
+      }
+    ]
+  },
+  {
+    "name": "Planet Merchant / Tycoon",
+    "type": "progressive",
+    "codes": "planetmerchant",
+    "allow_disabled": true, 
+    "img": "images/items/vouchers/Empty.png",
+    "disabled_img": "images/items/vouchers/Empty.png",
+    "stages": [
+      {
+        "img": "images/items/vouchers/Planet_Merchant.png",
+        "disabled_img": "images/items/vouchers/Empty.png",
+        "codes": "_1",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/vouchers/Planet_Tycoon.png",
+        "codes": "_2",
+        "inherit_codes": true
+      }
+    ]
+  },
+  {
+    "name": "Seed Money / Money Tree",
+    "type": "progressive",
+    "codes": "seedmoney",
+    "allow_disabled": true, 
+    "img": "images/items/vouchers/Empty.png",
+    "disabled_img": "images/items/vouchers/Empty.png",
+    "stages": [
+      {
+        "img": "images/items/vouchers/Seed_Money.png",
+        "disabled_img": "images/items/vouchers/Empty.png",
+        "codes": "_1",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/vouchers/Money_Tree.png",
+        "codes": "_2",
+        "inherit_codes": true
+      }
+    ]
+  },
+  {
+    "name": "Blank / Antimatter",
+    "type": "progressive",
+    "codes": "blank",
+    "allow_disabled": true, 
+    "img": "images/items/vouchers/Empty.png",
+    "disabled_img": "images/items/vouchers/Empty.png",
+    "stages": [
+      {
+        "img": "images/items/vouchers/Blank.png",
+        "disabled_img": "images/items/vouchers/Empty.png",
+        "codes": "_1",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/vouchers/Antimatter.png",
+        "codes": "_2",
+        "inherit_codes": true
+      }
+    ]
+  },
+  {
+    "name": "Magic Trick / Illusion",
+    "type": "progressive",
+    "codes": "magictrick",
+    "allow_disabled": true, 
+    "img": "images/items/vouchers/Empty.png",
+    "disabled_img": "images/items/vouchers/Empty.png",
+    "stages": [
+      {
+        "img": "images/items/vouchers/Magic_Trick.png",
+        "disabled_img": "images/items/vouchers/Empty.png",
+        "codes": "_1",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/vouchers/Illusion.png",
+        "codes": "_2",
+        "inherit_codes": true
+      }
+    ]
+  },
+  {
+    "name": "Hieroglyph / Petroglyph",
+    "type": "progressive",
+    "codes": "hieroglyph",
+    "allow_disabled": true, 
+    "img": "images/items/vouchers/Empty.png",
+    "disabled_img": "images/items/vouchers/Empty.png",
+    "stages": [
+      {
+        "img": "images/items/vouchers/Hieroglyph.png",
+        "disabled_img": "images/items/vouchers/Empty.png",
+        "codes": "_1",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/vouchers/Petroglyph.png",
+        "codes": "_2",
+        "inherit_codes": true
+      }
+    ]
+  },
+  {
+    "name": "Director's Cut / Retcon",
+    "type": "progressive",
+    "codes": "directorscut",
+    "allow_disabled": true, 
+    "img": "images/items/vouchers/Empty.png",
+    "disabled_img": "images/items/vouchers/Empty.png",
+    "stages": [
+      {
+        "img": "images/items/vouchers/Directors_Cut.png",
+        "disabled_img": "images/items/vouchers/Empty.png",
+        "codes": "_1",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/vouchers/Retcon.png",
+        "codes": "_2",
+        "inherit_codes": true
+      }
+    ]
+  },
+  {
+    "name": "Paint Brush / Palette",
+    "type": "progressive",
+    "codes": "paintbrush",
+    "allow_disabled": true, 
+    "img": "images/items/vouchers/Empty.png",
+    "disabled_img": "images/items/vouchers/Empty.png",
+    "stages": [
+      {
+        "img": "images/items/vouchers/Paint_Brush.png",
+        "disabled_img": "images/items/vouchers/Empty.png",
+        "codes": "_1",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/vouchers/Palette.png",
+        "codes": "_2",
+        "inherit_codes": true
+      }
+    ]
+  },
+  {
+    "name": "Arcana Pack",
+    "type": "toggle",
+    "codes": "arcanapack", 
+    "img": "images/items/packs/Arcana4.png",
+    "disabled_img": "images/items/packs/Empty.png"
+  },
+  {
+    "name": "Jumbo Arcana Pack",
+    "type": "toggle",
+    "codes": "jumboarcanapack", 
+    "img": "images/items/packs/Jumbo_Arcana1.png",
+    "disabled_img": "images/items/packs/Empty.png"
+  },
+  {
+    "name": "Mega Arcana Pack",
+    "type": "toggle",
+    "codes": "megaarcanapack", 
+    "img": "images/items/packs/Mega_Arcana1.png",
+    "disabled_img": "images/items/packs/Empty.png"
+  },
+  {
+    "name": "Celestial Pack",
+    "type": "toggle",
+    "codes": "celestialpack", 
+    "img": "images/items/packs/Celestial2.png",
+    "disabled_img": "images/items/packs/Empty.png"
+  },
+  {
+    "name": "Jumbo Celestial Pack",
+    "type": "toggle",
+    "codes": "jumbocelestialpack", 
+    "img": "images/items/packs/Jumbo_Celestial2.png",
+    "disabled_img": "images/items/packs/Empty.png"
+  },
+  {
+    "name": "Mega Celestial Pack",
+    "type": "toggle",
+    "codes": "megacelestialpack", 
+    "img": "images/items/packs/Mega_Celestial2.png",
+    "disabled_img": "images/items/packs/Empty.png"
+  },
+  {
+    "name": "Standard Pack",
+    "type": "toggle",
+    "codes": "standardpack", 
+    "img": "images/items/packs/Standard1.png",
+    "disabled_img": "images/items/packs/Empty.png"
+  },
+  {
+    "name": "Jumbo Standard Pack",
+    "type": "toggle",
+    "codes": "jumbostandardpack", 
+    "img": "images/items/packs/Jumbo_Standard2.png",
+    "disabled_img": "images/items/packs/Empty.png"
+  },
+  {
+    "name": "Mega Standard Pack",
+    "type": "toggle",
+    "codes": "megastandardpack", 
+    "img": "images/items/packs/Mega_Standard2.png",
+    "disabled_img": "images/items/packs/Empty.png"
+  },
+  {
+    "name": "Spectral Pack",
+    "type": "toggle",
+    "codes": "spectralpack", 
+    "img": "images/items/packs/Spectral1.png",
+    "disabled_img": "images/items/packs/Empty.png"
+  },
+  {
+    "name": "Jumbo Spectral Pack",
+    "type": "toggle",
+    "codes": "jumbospectralpack", 
+    "img": "images/items/packs/Jumbo_Spectral.png",
+    "disabled_img": "images/items/packs/Empty.png"
+  },
+  {
+    "name": "Mega Spectral Pack",
+    "type": "toggle",
+    "codes": "megaspectralpack", 
+    "img": "images/items/packs/Mega_Spectral.png",
+    "disabled_img": "images/items/packs/Empty.png"
+  },
+  {
+    "name": "Baffoon Pack",
+    "type": "toggle",
+    "codes": "baffoonpack", 
+    "img": "images/items/packs/Baffoon1.png",
+    "disabled_img": "images/items/packs/Empty.png"
+  },
+  {
+    "name": "Jumbo Baffoon Pack",
+    "type": "toggle",
+    "codes": "jumbobaffoonpack", 
+    "img": "images/items/packs/Jumbo_Baffoon.png",
+    "disabled_img": "images/items/packs/Empty.png"
+  },
+  {
+    "name": "Mega Baffoon Pack",
+    "type": "toggle",
+    "codes": "megabaffoonpack", 
+    "img": "images/items/packs/Mega_Baffoon.png",
+    "disabled_img": "images/items/packs/Empty.png"
+  },
+  {
+    "name": "Bonus Discards",
+    "type": "consumable",
+    "min_quantity":0,
+    "max_quantity":10,
+    "increment": 1,
+    "initial_quantity": 0,
+    "codes": "bonusdiscards", 
+    "img": "images/items/AP/Bonus_Discards.png",
+    "overlay_background": "#88000000",
+    "overlay_font_size": 30,
+    "overlay_align": "center"
+  },
+  {
+    "name": "Bonus Consumable Slots",
+    "type": "consumable",
+    "min_quantity":0,
+    "max_quantity":10,
+    "increment": 1,
+    "initial_quantity": 0,
+    "codes": "bonusconsumables", 
+    "img": "images/items/AP/Bonus_Consumables.png",
+    "overlay_background": "#88000000",
+    "overlay_font_size": 30,
+    "overlay_align": "center"
+  },
+  {
+    "name": "Bonus Starting Cash",
+    "type": "consumable",
+    "min_quantity":0,
+    "max_quantity":10,
+    "increment": 1,
+    "initial_quantity": 0,
+    "codes": "bonusstartingcash", 
+    "img": "images/items/AP/Bonus_Starting_Cash.png",
+    "overlay_background": "#88000000",
+    "overlay_font_size": 30,
+    "overlay_align": "center"
+  },
+  {
+    "name": "Bonus Max Interest",
+    "type": "consumable",
+    "min_quantity":0,
+    "max_quantity":10,
+    "increment": 1,
+    "initial_quantity": 0,
+    "codes": "bonusmaxinterest", 
+    "img": "images/items/AP/Bonus_Starting_Cash.png",
+    "overlay_background": "#88000000",
+    "overlay_font_size": 30,
+    "overlay_align": "center"
+  },
+  {
+    "name": "Bonus Hand Size",
+    "type": "consumable",
+    "min_quantity":0,
+    "max_quantity":10,
+    "increment": 1,
+    "initial_quantity": 0,
+    "codes": "bonushandsize", 
+    "img": "images/items/AP/Bonus_Hand_Size.png",
+    "overlay_background": "#88000000",
+    "overlay_font_size": 30,
+    "overlay_align": "center"
+  },
+  {
+    "name": "Bonus Hands",
+    "type": "consumable",
+    "min_quantity":0,
+    "max_quantity":10,
+    "increment": 1,
+    "initial_quantity": 0,
+    "codes": "bonushands", 
+    "img": "images/items/AP/Bonus_Hands.png",
+    "overlay_background": "#88000000",
+    "overlay_font_size": 30,
+    "overlay_align": "center"
+  },
+  {
+    "name": "Bonus Joker Slots",
+    "type": "consumable",
+    "min_quantity":0,
+    "max_quantity":10,
+    "increment": 1,
+    "initial_quantity": 0,
+    "codes": "bonusjoker", 
+    "img": "images/items/AP/Bonus_Joker.png",
+    "overlay_background": "#88000000",
+    "overlay_font_size": 30,
+    "overlay_align": "center"
+  },
+  {
+    "name": "Red Deck White Stake Access",
+    "type": "toggle",
+    "codes": "megabaffoonpack"
+  },
+  {"name": "Red Deck White Stakes Access", "type": "toggle", "codes": "reddeckwhitestakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Red Deck Red Stakes Access", "type": "toggle", "codes": "reddeckredstakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Red Deck Green Stakes Access", "type": "toggle", "codes": "reddeckgreenstakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Red Deck Black Stakes Access", "type": "toggle", "codes": "reddeckblackstakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Red Deck Blue Stakes Access", "type": "toggle", "codes": "reddeckbluestakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Red Deck Purple Stakes Access", "type": "toggle", "codes": "reddeckpurplestakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Red Deck Orange Stakes Access", "type": "toggle", "codes": "reddeckorangestakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Red Deck Gold Stakes Access", "type": "toggle", "codes": "reddeckgoldstakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Blue Deck White Stakes Access", "type": "toggle", "codes": "bluedeckwhitestakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Blue Deck Red Stakes Access", "type": "toggle", "codes": "bluedeckredstakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Blue Deck Green Stakes Access", "type": "toggle", "codes": "bluedeckgreenstakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Blue Deck Black Stakes Access", "type": "toggle", "codes": "bluedeckblackstakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Blue Deck Blue Stakes Access", "type": "toggle", "codes": "bluedeckbluestakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Blue Deck Purple Stakes Access", "type": "toggle", "codes": "bluedeckpurplestakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Blue Deck Orange Stakes Access", "type": "toggle", "codes": "bluedeckorangestakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Blue Deck Gold Stakes Access", "type": "toggle", "codes": "bluedeckgoldstakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Yellow Deck White Stakes Access", "type": "toggle", "codes": "yellowdeckwhitestakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Yellow Deck Red Stakes Access", "type": "toggle", "codes": "yellowdeckredstakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Yellow Deck Green Stakes Access", "type": "toggle", "codes": "yellowdeckgreenstakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Yellow Deck Black Stakes Access", "type": "toggle", "codes": "yellowdeckblackstakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Yellow Deck Blue Stakes Access", "type": "toggle", "codes": "yellowdeckbluestakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Yellow Deck Purple Stakes Access", "type": "toggle", "codes": "yellowdeckpurplestakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Yellow Deck Orange Stakes Access", "type": "toggle", "codes": "yellowdeckorangestakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Yellow Deck Gold Stakes Access", "type": "toggle", "codes": "yellowdeckgoldstakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Green Deck White Stakes Access", "type": "toggle", "codes": "greendeckwhitestakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Green Deck Red Stakes Access", "type": "toggle", "codes": "greendeckredstakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Green Deck Green Stakes Access", "type": "toggle", "codes": "greendeckgreenstakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Green Deck Black Stakes Access", "type": "toggle", "codes": "greendeckblackstakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Green Deck Blue Stakes Access", "type": "toggle", "codes": "greendeckbluestakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Green Deck Purple Stakes Access", "type": "toggle", "codes": "greendeckpurplestakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Green Deck Orange Stakes Access", "type": "toggle", "codes": "greendeckorangestakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Green Deck Gold Stakes Access", "type": "toggle", "codes": "greendeckgoldstakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Black Deck White Stakes Access", "type": "toggle", "codes": "blackdeckwhitestakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Black Deck Red Stakes Access", "type": "toggle", "codes": "blackdeckredstakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Black Deck Green Stakes Access", "type": "toggle", "codes": "blackdeckgreenstakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Black Deck Black Stakes Access", "type": "toggle", "codes": "blackdeckblackstakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Black Deck Blue Stakes Access", "type": "toggle", "codes": "blackdeckbluestakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Black Deck Purple Stakes Access", "type": "toggle", "codes": "blackdeckpurplestakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Black Deck Orange Stakes Access", "type": "toggle", "codes": "blackdeckorangestakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Black Deck Gold Stakes Access", "type": "toggle", "codes": "blackdeckgoldstakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Magic Deck White Stakes Access", "type": "toggle", "codes": "magicdeckwhitestakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Magic Deck Red Stakes Access", "type": "toggle", "codes": "magicdeckredstakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Magic Deck Green Stakes Access", "type": "toggle", "codes": "magicdeckgreenstakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Magic Deck Black Stakes Access", "type": "toggle", "codes": "magicdeckblackstakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Magic Deck Blue Stakes Access", "type": "toggle", "codes": "magicdeckbluestakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Magic Deck Purple Stakes Access", "type": "toggle", "codes": "magicdeckpurplestakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Magic Deck Orange Stakes Access", "type": "toggle", "codes": "magicdeckorangestakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Magic Deck Gold Stakes Access", "type": "toggle", "codes": "magicdeckgoldstakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Nebula Deck White Stakes Access", "type": "toggle", "codes": "nebuladeckwhitestakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Nebula Deck Red Stakes Access", "type": "toggle", "codes": "nebuladeckredstakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Nebula Deck Green Stakes Access", "type": "toggle", "codes": "nebuladeckgreenstakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Nebula Deck Black Stakes Access", "type": "toggle", "codes": "nebuladeckblackstakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Nebula Deck Blue Stakes Access", "type": "toggle", "codes": "nebuladeckbluestakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Nebula Deck Purple Stakes Access", "type": "toggle", "codes": "nebuladeckpurplestakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Nebula Deck Orange Stakes Access", "type": "toggle", "codes": "nebuladeckorangestakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Nebula Deck Gold Stakes Access", "type": "toggle", "codes": "nebuladeckgoldstakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Ghost Deck White Stakes Access", "type": "toggle", "codes": "ghostdeckwhitestakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Ghost Deck Red Stakes Access", "type": "toggle", "codes": "ghostdeckredstakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Ghost Deck Green Stakes Access", "type": "toggle", "codes": "ghostdeckgreenstakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Ghost Deck Black Stakes Access", "type": "toggle", "codes": "ghostdeckblackstakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Ghost Deck Blue Stakes Access", "type": "toggle", "codes": "ghostdeckbluestakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Ghost Deck Purple Stakes Access", "type": "toggle", "codes": "ghostdeckpurplestakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Ghost Deck Orange Stakes Access", "type": "toggle", "codes": "ghostdeckorangestakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Ghost Deck Gold Stakes Access", "type": "toggle", "codes": "ghostdeckgoldstakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Abandoned Deck White Stakes Access", "type": "toggle", "codes": "abandoneddeckwhitestakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Abandoned Deck Red Stakes Access", "type": "toggle", "codes": "abandoneddeckredstakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Abandoned Deck Green Stakes Access", "type": "toggle", "codes": "abandoneddeckgreenstakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Abandoned Deck Black Stakes Access", "type": "toggle", "codes": "abandoneddeckblackstakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Abandoned Deck Blue Stakes Access", "type": "toggle", "codes": "abandoneddeckbluestakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Abandoned Deck Purple Stakes Access", "type": "toggle", "codes": "abandoneddeckpurplestakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Abandoned Deck Orange Stakes Access", "type": "toggle", "codes": "abandoneddeckorangestakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Abandoned Deck Gold Stakes Access", "type": "toggle", "codes": "abandoneddeckgoldstakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Checkered Deck White Stakes Access", "type": "toggle", "codes": "checkereddeckwhitestakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Checkered Deck Red Stakes Access", "type": "toggle", "codes": "checkereddeckredstakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Checkered Deck Green Stakes Access", "type": "toggle", "codes": "checkereddeckgreenstakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Checkered Deck Black Stakes Access", "type": "toggle", "codes": "checkereddeckblackstakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Checkered Deck Blue Stakes Access", "type": "toggle", "codes": "checkereddeckbluestakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Checkered Deck Purple Stakes Access", "type": "toggle", "codes": "checkereddeckpurplestakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Checkered Deck Orange Stakes Access", "type": "toggle", "codes": "checkereddeckorangestakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Checkered Deck Gold Stakes Access", "type": "toggle", "codes": "checkereddeckgoldstakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Zodiac Deck White Stakes Access", "type": "toggle", "codes": "zodiacdeckwhitestakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Zodiac Deck Red Stakes Access", "type": "toggle", "codes": "zodiacdeckredstakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Zodiac Deck Green Stakes Access", "type": "toggle", "codes": "zodiacdeckgreenstakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Zodiac Deck Black Stakes Access", "type": "toggle", "codes": "zodiacdeckblackstakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Zodiac Deck Blue Stakes Access", "type": "toggle", "codes": "zodiacdeckbluestakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Zodiac Deck Purple Stakes Access", "type": "toggle", "codes": "zodiacdeckpurplestakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Zodiac Deck Orange Stakes Access", "type": "toggle", "codes": "zodiacdeckorangestakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Zodiac Deck Gold Stakes Access", "type": "toggle", "codes": "zodiacdeckgoldstakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Painted Deck White Stakes Access", "type": "toggle", "codes": "painteddeckwhitestakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Painted Deck Red Stakes Access", "type": "toggle", "codes": "painteddeckredstakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Painted Deck Green Stakes Access", "type": "toggle", "codes": "painteddeckgreenstakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Painted Deck Black Stakes Access", "type": "toggle", "codes": "painteddeckblackstakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Painted Deck Blue Stakes Access", "type": "toggle", "codes": "painteddeckbluestakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Painted Deck Purple Stakes Access", "type": "toggle", "codes": "painteddeckpurplestakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Painted Deck Orange Stakes Access", "type": "toggle", "codes": "painteddeckorangestakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Painted Deck Gold Stakes Access", "type": "toggle", "codes": "painteddeckgoldstakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Anaglyph Deck White Stakes Access", "type": "toggle", "codes": "anaglyphdeckwhitestakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Anaglyph Deck Red Stakes Access", "type": "toggle", "codes": "anaglyphdeckredstakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Anaglyph Deck Green Stakes Access", "type": "toggle", "codes": "anaglyphdeckgreenstakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Anaglyph Deck Black Stakes Access", "type": "toggle", "codes": "anaglyphdeckblackstakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Anaglyph Deck Blue Stakes Access", "type": "toggle", "codes": "anaglyphdeckbluestakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Anaglyph Deck Purple Stakes Access", "type": "toggle", "codes": "anaglyphdeckpurplestakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Anaglyph Deck Orange Stakes Access", "type": "toggle", "codes": "anaglyphdeckorangestakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Anaglyph Deck Gold Stakes Access", "type": "toggle", "codes": "anaglyphdeckgoldstakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Plasma Deck White Stakes Access", "type": "toggle", "codes": "plasmadeckwhitestakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Plasma Deck Red Stakes Access", "type": "toggle", "codes": "plasmadeckredstakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Plasma Deck Green Stakes Access", "type": "toggle", "codes": "plasmadeckgreenstakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Plasma Deck Black Stakes Access", "type": "toggle", "codes": "plasmadeckblackstakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Plasma Deck Blue Stakes Access", "type": "toggle", "codes": "plasmadeckbluestakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Plasma Deck Purple Stakes Access", "type": "toggle", "codes": "plasmadeckpurplestakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Plasma Deck Orange Stakes Access", "type": "toggle", "codes": "plasmadeckorangestakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Plasma Deck Gold Stakes Access", "type": "toggle", "codes": "plasmadeckgoldstakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Erratic Deck White Stakes Access", "type": "toggle", "codes": "erraticdeckwhitestakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Erratic Deck Red Stakes Access", "type": "toggle", "codes": "erraticdeckredstakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Erratic Deck Green Stakes Access", "type": "toggle", "codes": "erraticdeckgreenstakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Erratic Deck Black Stakes Access", "type": "toggle", "codes": "erraticdeckblackstakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Erratic Deck Blue Stakes Access", "type": "toggle", "codes": "erraticdeckbluestakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Erratic Deck Purple Stakes Access", "type": "toggle", "codes": "erraticdeckpurplestakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Erratic Deck Orange Stakes Access", "type": "toggle", "codes": "erraticdeckorangestakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Erratic Deck Gold Stakes Access", "type": "toggle", "codes": "erraticdeckgoldstakeaccess","img": "images/items/packs/Empty.png"},
+{"name": "Red Deck In Pool", "type": "toggle", "codes": "reddip","img": "images/items/packs/Empty.png"},
+{"name": "Blue Deck In Pool", "type": "toggle", "codes": "bluedip","img": "images/items/packs/Empty.png"},
+{"name": "Yellow Deck In Pool", "type": "toggle", "codes": "yellowdip","img": "images/items/packs/Empty.png"},
+{"name": "Green Deck In Pool", "type": "toggle", "codes": "greendip","img": "images/items/packs/Empty.png"},
+{"name": "Black Deck In Pool", "type": "toggle", "codes": "blackdip","img": "images/items/packs/Empty.png"},
+{"name": "Magic Deck In Pool", "type": "toggle", "codes": "magicdip","img": "images/items/packs/Empty.png"},
+{"name": "Nebula Deck In Pool", "type": "toggle", "codes": "nebuladip","img": "images/items/packs/Empty.png"},
+{"name": "Ghost Deck In Pool", "type": "toggle", "codes": "ghostdip","img": "images/items/packs/Empty.png"},
+{"name": "Abandoned Deck In Pool", "type": "toggle", "codes": "abandoneddip","img": "images/items/packs/Empty.png"},
+{"name": "Checkered Deck In Pool", "type": "toggle", "codes": "checkereddip","img": "images/items/packs/Empty.png"},
+{"name": "Zodiac Deck In Pool", "type": "toggle", "codes": "zodiacdip","img": "images/items/packs/Empty.png"},
+{"name": "Painted Deck In Pool", "type": "toggle", "codes": "painteddip","img": "images/items/packs/Empty.png"},
+{"name": "Anaglyph Deck In Pool", "type": "toggle", "codes": "anaglyphdip","img": "images/items/packs/Empty.png"},
+{"name": "Plasma Deck In Pool", "type": "toggle", "codes": "plasmadip","img": "images/items/packs/Empty.png"},
+{"name": "Erratic Deck In Pool", "type": "toggle", "codes": "erraticdip","img": "images/items/packs/Empty.png"},
+{"name": "White Stake In Pool", "type": "toggle", "codes": "whitesip","img": "images/items/packs/Empty.png"},
+{"name": "Red Stake In Pool", "type": "toggle", "codes": "redsip","img": "images/items/packs/Empty.png"},
+{"name": "Green Stake In Pool", "type": "toggle", "codes": "greensip","img": "images/items/packs/Empty.png"},
+{"name": "Black Stake In Pool", "type": "toggle", "codes": "blacksip","img": "images/items/packs/Empty.png"},
+{"name": "Blue Stake In Pool", "type": "toggle", "codes": "bluesip","img": "images/items/packs/Empty.png"},
+{"name": "Purple Stake In Pool", "type": "toggle", "codes": "purplesip","img": "images/items/packs/Empty.png"},
+{"name": "Orange Stake In Pool", "type": "toggle", "codes": "orangesip","img": "images/items/packs/Empty.png"},
+{"name": "Gold Stake In Pool", "type": "toggle", "codes": "goldsip","img": "images/items/packs/Empty.png"}
+]

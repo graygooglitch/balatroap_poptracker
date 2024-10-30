@@ -1,0 +1,6349 @@
+[
+  {
+    "name": "Grid",
+    "children": [
+      {
+        "name": "Red Deck, White Stakes",
+        "access_rules": [
+          ["reddeckwhitestakeaccess"]
+        ],
+        "visibility_rules": [
+          ["reddip","whitesip"],["reddeckwhitestakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 104,
+            "y": 124
+          }
+        ]
+      },
+      {
+        "name": "Red Deck, Red Stakes",
+        "access_rules": [
+          ["reddeckredstakeaccess"]
+        ],
+        "visibility_rules": [
+          ["reddip","redsip"],["reddeckredstakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 104,
+            "y": 196
+          }
+        ]
+      },
+      {
+        "name": "Red Deck, Green Stakes",
+        "access_rules": [
+          ["reddeckgreenstakeaccess"]
+        ],
+        "visibility_rules": [
+          ["reddip","greensip"],["reddeckgreenstakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 104,
+            "y": 268
+          }
+        ]
+      },
+      {
+        "name": "Red Deck, Black Stakes",
+        "access_rules": [
+          ["reddeckblackstakeaccess"]
+        ],
+        "visibility_rules": [
+          ["reddip","blacksip"],["reddeckblackstakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 104,
+            "y": 340
+          }
+        ]
+      },
+      {
+        "name": "Red Deck, Blue Stakes",
+        "access_rules": [
+          ["reddeckbluestakeaccess"]
+        ],
+        "visibility_rules": [
+          ["reddip","bluesip"],["reddeckbluestakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 104,
+            "y": 412
+          }
+        ]
+      },
+      {
+        "name": "Red Deck, Purple Stakes",
+        "access_rules": [
+          ["reddeckpurplestakeaccess"]
+        ],
+        "visibility_rules": [
+          ["reddip","purplesip"],["reddeckpurplestakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 104,
+            "y": 484
+          }
+        ]
+      },
+      {
+        "name": "Red Deck, Orange Stakes",
+        "access_rules": [
+          ["reddeckorangestakeaccess"]
+        ],
+        "visibility_rules": [
+          ["reddip","orangesip"],["reddeckorangestakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 104,
+            "y": 556
+          }
+        ]
+      },
+      {
+        "name": "Red Deck, Gold Stakes",
+        "access_rules": [
+          ["reddeckgoldstakeaccess"]
+        ],
+        "visibility_rules": [
+          ["reddip","goldsip"],["reddeckgoldstakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 104,
+            "y": 628
+          }
+        ]
+      },
+      {
+        "name": "Blue Deck, White Stakes",
+        "access_rules": [
+          ["bluedeckwhitestakeaccess"]
+        ],
+        "visibility_rules": [
+          ["bluedip","whitesip"],["bluedeckwhitestakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 166,
+            "y": 124
+          }
+        ]
+      },
+      {
+        "name": "Blue Deck, Red Stakes",
+        "access_rules": [
+          ["bluedeckredstakeaccess"]
+        ],
+        "visibility_rules": [
+          ["bluedip","redsip"],["bluedeckredstakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 166,
+            "y": 196
+          }
+        ]
+      },
+      {
+        "name": "Blue Deck, Green Stakes",
+        "access_rules": [
+          ["bluedeckgreenstakeaccess"]
+        ],
+        "visibility_rules": [
+          ["bluedip","greensip"],["bluedeckgreenstakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 166,
+            "y": 268
+          }
+        ]
+      },
+      {
+        "name": "Blue Deck, Black Stakes",
+        "access_rules": [
+          ["bluedeckblackstakeaccess"]
+        ],
+        "visibility_rules": [
+          ["bluedip","blacksip"],["bluedeckblackstakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 166,
+            "y": 340
+          }
+        ]
+      },
+      {
+        "name": "Blue Deck, Blue Stakes",
+        "access_rules": [
+          ["bluedeckbluestakeaccess"]
+        ],
+        "visibility_rules": [
+          ["bluedip","bluesip"],["bluedeckbluestakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 166,
+            "y": 412
+          }
+        ]
+      },
+      {
+        "name": "Blue Deck, Purple Stakes",
+        "access_rules": [
+          ["bluedeckpurplestakeaccess"]
+        ],
+        "visibility_rules": [
+          ["bluedip","purplesip"],["bluedeckpurplestakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 166,
+            "y": 484
+          }
+        ]
+      },
+      {
+        "name": "Blue Deck, Orange Stakes",
+        "access_rules": [
+          ["bluedeckorangestakeaccess"]
+        ],
+        "visibility_rules": [
+          ["bluedip","orangesip"],["bluedeckorangestakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 166,
+            "y": 556
+          }
+        ]
+      },
+      {
+        "name": "Blue Deck, Gold Stakes",
+        "access_rules": [
+          ["bluedeckgoldstakeaccess"]
+        ],
+        "visibility_rules": [
+          ["bluedip","goldsip"],["bluedeckgoldstakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 166,
+            "y": 628
+          }
+        ]
+      },
+      {
+        "name": "Yellow Deck, White Stakes",
+        "access_rules": [
+          ["yellowdeckwhitestakeaccess"]
+        ],
+        "visibility_rules": [
+          ["yellowdip","whitesip"],["yellowdeckwhitestakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 228,
+            "y": 124
+          }
+        ]
+      },
+      {
+        "name": "Yellow Deck, Red Stakes",
+        "access_rules": [
+          ["yellowdeckredstakeaccess"]
+        ],
+        "visibility_rules": [
+          ["yellowdip","redsip"],["yellowdeckredstakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 228,
+            "y": 196
+          }
+        ]
+      },
+      {
+        "name": "Yellow Deck, Green Stakes",
+        "access_rules": [
+          ["yellowdeckgreenstakeaccess"]
+        ],
+        "visibility_rules": [
+          ["yellowdip","greensip"],["yellowdeckgreenstakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 228,
+            "y": 268
+          }
+        ]
+      },
+      {
+        "name": "Yellow Deck, Black Stakes",
+        "access_rules": [
+          ["yellowdeckblackstakeaccess"]
+        ],
+        "visibility_rules": [
+          ["yellowdip","blacksip"],["yellowdeckblackstakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 228,
+            "y": 340
+          }
+        ]
+      },
+      {
+        "name": "Yellow Deck, Blue Stakes",
+        "access_rules": [
+          ["yellowdeckbluestakeaccess"]
+        ],
+        "visibility_rules": [
+          ["yellowdip","bluesip"],["yellowdeckbluestakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 228,
+            "y": 412
+          }
+        ]
+      },
+      {
+        "name": "Yellow Deck, Purple Stakes",
+        "access_rules": [
+          ["yellowdeckpurplestakeaccess"]
+        ],
+        "visibility_rules": [
+          ["yellowdip","purplesip"],["yellowdeckpurplestakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 228,
+            "y": 484
+          }
+        ]
+      },
+      {
+        "name": "Yellow Deck, Orange Stakes",
+        "access_rules": [
+          ["yellowdeckorangestakeaccess"]
+        ],
+        "visibility_rules": [
+          ["yellowdip","orangesip"],["yellowdeckorangestakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 228,
+            "y": 556
+          }
+        ]
+      },
+      {
+        "name": "Yellow Deck, Gold Stakes",
+        "access_rules": [
+          ["yellowdeckgoldstakeaccess"]
+        ],
+        "visibility_rules": [
+          ["yellowdip","goldsip"],["yellowdeckgoldstakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 228,
+            "y": 628
+          }
+        ]
+      },
+      {
+        "name": "Green Deck, White Stakes",
+        "access_rules": [
+          ["greendeckwhitestakeaccess"]
+        ],
+        "visibility_rules": [
+          ["greendip","whitesip"],["greendeckwhitestakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 290,
+            "y": 124
+          }
+        ]
+      },
+      {
+        "name": "Green Deck, Red Stakes",
+        "access_rules": [
+          ["greendeckredstakeaccess"]
+        ],
+        "visibility_rules": [
+          ["greendip","redsip"],["greendeckredstakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 290,
+            "y": 196
+          }
+        ]
+      },
+      {
+        "name": "Green Deck, Green Stakes",
+        "access_rules": [
+          ["greendeckgreenstakeaccess"]
+        ],
+        "visibility_rules": [
+          ["greendip","greensip"],["greendeckgreenstakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 290,
+            "y": 268
+          }
+        ]
+      },
+      {
+        "name": "Green Deck, Black Stakes",
+        "access_rules": [
+          ["greendeckblackstakeaccess"]
+        ],
+        "visibility_rules": [
+          ["greendip","blacksip"],["greendeckblackstakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 290,
+            "y": 340
+          }
+        ]
+      },
+      {
+        "name": "Green Deck, Blue Stakes",
+        "access_rules": [
+          ["greendeckbluestakeaccess"]
+        ],
+        "visibility_rules": [
+          ["greendip","bluesip"],["greendeckbluestakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 290,
+            "y": 412
+          }
+        ]
+      },
+      {
+        "name": "Green Deck, Purple Stakes",
+        "access_rules": [
+          ["greendeckpurplestakeaccess"]
+        ],
+        "visibility_rules": [
+          ["greendip","purplesip"],["greendeckpurplestakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 290,
+            "y": 484
+          }
+        ]
+      },
+      {
+        "name": "Green Deck, Orange Stakes",
+        "access_rules": [
+          ["greendeckorangestakeaccess"]
+        ],
+        "visibility_rules": [
+          ["greendip","orangesip"],["greendeckorangestakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 290,
+            "y": 556
+          }
+        ]
+      },
+      {
+        "name": "Green Deck, Gold Stakes",
+        "access_rules": [
+          ["greendeckgoldstakeaccess"]
+        ],
+        "visibility_rules": [
+          ["greendip","goldsip"],["greendeckgoldstakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 290,
+            "y": 628
+          }
+        ]
+      },
+      {
+        "name": "Black Deck, White Stakes",
+        "access_rules": [
+          ["blackdeckwhitestakeaccess"]
+        ],
+        "visibility_rules": [
+          ["blackdip","whitesip"],["blackdeckwhitestakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 352,
+            "y": 124
+          }
+        ]
+      },
+      {
+        "name": "Black Deck, Red Stakes",
+        "access_rules": [
+          ["blackdeckredstakeaccess"]
+        ],
+        "visibility_rules": [
+          ["blackdip","redsip"],["blackdeckredstakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 352,
+            "y": 196
+          }
+        ]
+      },
+      {
+        "name": "Black Deck, Green Stakes",
+        "access_rules": [
+          ["blackdeckgreenstakeaccess"]
+        ],
+        "visibility_rules": [
+          ["blackdip","greensip"],["blackdeckgreenstakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 352,
+            "y": 268
+          }
+        ]
+      },
+      {
+        "name": "Black Deck, Black Stakes",
+        "access_rules": [
+          ["blackdeckblackstakeaccess"]
+        ],
+        "visibility_rules": [
+          ["blackdip","blacksip"],["blackdeckblackstakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 352,
+            "y": 340
+          }
+        ]
+      },
+      {
+        "name": "Black Deck, Blue Stakes",
+        "access_rules": [
+          ["blackdeckbluestakeaccess"]
+        ],
+        "visibility_rules": [
+          ["blackdip","bluesip"],["blackdeckbluestakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 352,
+            "y": 412
+          }
+        ]
+      },
+      {
+        "name": "Black Deck, Purple Stakes",
+        "access_rules": [
+          ["blackdeckpurplestakeaccess"]
+        ],
+        "visibility_rules": [
+          ["blackdip","purplesip"],["blackdeckpurplestakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 352,
+            "y": 484
+          }
+        ]
+      },
+      {
+        "name": "Black Deck, Orange Stakes",
+        "access_rules": [
+          ["blackdeckorangestakeaccess"]
+        ],
+        "visibility_rules": [
+          ["blackdip","orangesip"],["blackdeckorangestakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 352,
+            "y": 556
+          }
+        ]
+      },
+      {
+        "name": "Black Deck, Gold Stakes",
+        "access_rules": [
+          ["blackdeckgoldstakeaccess"]
+        ],
+        "visibility_rules": [
+          ["blackdip","goldsip"],["blackdeckgoldstakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 352,
+            "y": 628
+          }
+        ]
+      },
+      {
+        "name": "Magic Deck, White Stakes",
+        "access_rules": [
+          ["magicdeckwhitestakeaccess"]
+        ],
+        "visibility_rules": [
+          ["magicdip","whitesip"],["magicdeckwhitestakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 414,
+            "y": 124
+          }
+        ]
+      },
+      {
+        "name": "Magic Deck, Red Stakes",
+        "access_rules": [
+          ["magicdeckredstakeaccess"]
+        ],
+        "visibility_rules": [
+          ["magicdip","redsip"],["magicdeckredstakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 414,
+            "y": 196
+          }
+        ]
+      },
+      {
+        "name": "Magic Deck, Green Stakes",
+        "access_rules": [
+          ["magicdeckgreenstakeaccess"]
+        ],
+        "visibility_rules": [
+          ["magicdip","greensip"],["magicdeckgreenstakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 414,
+            "y": 268
+          }
+        ]
+      },
+      {
+        "name": "Magic Deck, Black Stakes",
+        "access_rules": [
+          ["magicdeckblackstakeaccess"]
+        ],
+        "visibility_rules": [
+          ["magicdip","blacksip"],["magicdeckblackstakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 414,
+            "y": 340
+          }
+        ]
+      },
+      {
+        "name": "Magic Deck, Blue Stakes",
+        "access_rules": [
+          ["magicdeckbluestakeaccess"]
+        ],
+        "visibility_rules": [
+          ["magicdip","bluesip"],["magicdeckbluestakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 414,
+            "y": 412
+          }
+        ]
+      },
+      {
+        "name": "Magic Deck, Purple Stakes",
+        "access_rules": [
+          ["magicdeckpurplestakeaccess"]
+        ],
+        "visibility_rules": [
+          ["magicdip","purplesip"],["magicdeckpurplestakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 414,
+            "y": 484
+          }
+        ]
+      },
+      {
+        "name": "Magic Deck, Orange Stakes",
+        "access_rules": [
+          ["magicdeckorangestakeaccess"]
+        ],
+        "visibility_rules": [
+          ["magicdip","orangesip"],["magicdeckorangestakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 414,
+            "y": 556
+          }
+        ]
+      },
+      {
+        "name": "Magic Deck, Gold Stakes",
+        "access_rules": [
+          ["magicdeckgoldstakeaccess"]
+        ],
+        "visibility_rules": [
+          ["magicdip","goldsip"],["magicdeckgoldstakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 414,
+            "y": 628
+          }
+        ]
+      },
+      {
+        "name": "Nebula Deck, White Stakes",
+        "access_rules": [
+          ["nebuladeckwhitestakeaccess"]
+        ],
+        "visibility_rules": [
+          ["nebuladip","whitesip"],["nebuladeckwhitestakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 476,
+            "y": 124
+          }
+        ]
+      },
+      {
+        "name": "Nebula Deck, Red Stakes",
+        "access_rules": [
+          ["nebuladeckredstakeaccess"]
+        ],
+        "visibility_rules": [
+          ["nebuladip","redsip"],["nebuladeckredstakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 476,
+            "y": 196
+          }
+        ]
+      },
+      {
+        "name": "Nebula Deck, Green Stakes",
+        "access_rules": [
+          ["nebuladeckgreenstakeaccess"]
+        ],
+        "visibility_rules": [
+          ["nebuladip","greensip"],["nebuladeckgreenstakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 476,
+            "y": 268
+          }
+        ]
+      },
+      {
+        "name": "Nebula Deck, Black Stakes",
+        "access_rules": [
+          ["nebuladeckblackstakeaccess"]
+        ],
+        "visibility_rules": [
+          ["nebuladip","blacksip"],["nebuladeckblackstakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 476,
+            "y": 340
+          }
+        ]
+      },
+      {
+        "name": "Nebula Deck, Blue Stakes",
+        "access_rules": [
+          ["nebuladeckbluestakeaccess"]
+        ],
+        "visibility_rules": [
+          ["nebuladip","bluesip"],["nebuladeckbluestakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 476,
+            "y": 412
+          }
+        ]
+      },
+      {
+        "name": "Nebula Deck, Purple Stakes",
+        "access_rules": [
+          ["nebuladeckpurplestakeaccess"]
+        ],
+        "visibility_rules": [
+          ["nebuladip","purplesip"],["nebuladeckpurplestakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 476,
+            "y": 484
+          }
+        ]
+      },
+      {
+        "name": "Nebula Deck, Orange Stakes",
+        "access_rules": [
+          ["nebuladeckorangestakeaccess"]
+        ],
+        "visibility_rules": [
+          ["nebuladip","orangesip"],["nebuladeckorangestakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 476,
+            "y": 556
+          }
+        ]
+      },
+      {
+        "name": "Nebula Deck, Gold Stakes",
+        "access_rules": [
+          ["nebuladeckgoldstakeaccess"]
+        ],
+        "visibility_rules": [
+          ["nebuladip","goldsip"],["nebuladeckgoldstakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 476,
+            "y": 628
+          }
+        ]
+      },
+      {
+        "name": "Ghost Deck, White Stakes",
+        "access_rules": [
+          ["ghostdeckwhitestakeaccess"]
+        ],
+        "visibility_rules": [
+          ["ghostdip","whitesip"],["ghostdeckwhitestakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 538,
+            "y": 124
+          }
+        ]
+      },
+      {
+        "name": "Ghost Deck, Red Stakes",
+        "access_rules": [
+          ["ghostdeckredstakeaccess"]
+        ],
+        "visibility_rules": [
+          ["ghostdip","redsip"],["ghostdeckredstakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 538,
+            "y": 196
+          }
+        ]
+      },
+      {
+        "name": "Ghost Deck, Green Stakes",
+        "access_rules": [
+          ["ghostdeckgreenstakeaccess"]
+        ],
+        "visibility_rules": [
+          ["ghostdip","greensip"],["ghostdeckgreenstakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 538,
+            "y": 268
+          }
+        ]
+      },
+      {
+        "name": "Ghost Deck, Black Stakes",
+        "access_rules": [
+          ["ghostdeckblackstakeaccess"]
+        ],
+        "visibility_rules": [
+          ["ghostdip","blacksip"],["ghostdeckblackstakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 538,
+            "y": 340
+          }
+        ]
+      },
+      {
+        "name": "Ghost Deck, Blue Stakes",
+        "access_rules": [
+          ["ghostdeckbluestakeaccess"]
+        ],
+        "visibility_rules": [
+          ["ghostdip","bluesip"],["ghostdeckbluestakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 538,
+            "y": 412
+          }
+        ]
+      },
+      {
+        "name": "Ghost Deck, Purple Stakes",
+        "access_rules": [
+          ["ghostdeckpurplestakeaccess"]
+        ],
+        "visibility_rules": [
+          ["ghostdip","purplesip"],["ghostdeckpurplestakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 538,
+            "y": 484
+          }
+        ]
+      },
+      {
+        "name": "Ghost Deck, Orange Stakes",
+        "access_rules": [
+          ["ghostdeckorangestakeaccess"]
+        ],
+        "visibility_rules": [
+          ["ghostdip","orangesip"],["ghostdeckorangestakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 538,
+            "y": 556
+          }
+        ]
+      },
+      {
+        "name": "Ghost Deck, Gold Stakes",
+        "access_rules": [
+          ["ghostdeckgoldstakeaccess"]
+        ],
+        "visibility_rules": [
+          ["ghostdip","goldsip"],["ghostdeckgoldstakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 538,
+            "y": 628
+          }
+        ]
+      },
+      {
+        "name": "Abandoned Deck, White Stakes",
+        "access_rules": [
+          ["abandoneddeckwhitestakeaccess"]
+        ],
+        "visibility_rules": [
+          ["abandoneddip","whitesip"],["abandoneddeckwhitestakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 600,
+            "y": 124
+          }
+        ]
+      },
+      {
+        "name": "Abandoned Deck, Red Stakes",
+        "access_rules": [
+          ["abandoneddeckredstakeaccess"]
+        ],
+        "visibility_rules": [
+          ["abandoneddip","redsip"],["abandoneddeckredstakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 600,
+            "y": 196
+          }
+        ]
+      },
+      {
+        "name": "Abandoned Deck, Green Stakes",
+        "access_rules": [
+          ["abandoneddeckgreenstakeaccess"]
+        ],
+        "visibility_rules": [
+          ["abandoneddip","greensip"],["abandoneddeckgreenstakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 600,
+            "y": 268
+          }
+        ]
+      },
+      {
+        "name": "Abandoned Deck, Black Stakes",
+        "access_rules": [
+          ["abandoneddeckblackstakeaccess"]
+        ],
+        "visibility_rules": [
+          ["abandoneddip","blacksip"],["abandoneddeckblackstakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 600,
+            "y": 340
+          }
+        ]
+      },
+      {
+        "name": "Abandoned Deck, Blue Stakes",
+        "access_rules": [
+          ["abandoneddeckbluestakeaccess"]
+        ],
+        "visibility_rules": [
+          ["abandoneddip","bluesip"],["abandoneddeckbluestakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 600,
+            "y": 412
+          }
+        ]
+      },
+      {
+        "name": "Abandoned Deck, Purple Stakes",
+        "access_rules": [
+          ["abandoneddeckpurplestakeaccess"]
+        ],
+        "visibility_rules": [
+          ["abandoneddip","purplesip"],["abandoneddeckpurplestakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 600,
+            "y": 484
+          }
+        ]
+      },
+      {
+        "name": "Abandoned Deck, Orange Stakes",
+        "access_rules": [
+          ["abandoneddeckorangestakeaccess"]
+        ],
+        "visibility_rules": [
+          ["abandoneddip","orangesip"],["abandoneddeckorangestakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 600,
+            "y": 556
+          }
+        ]
+      },
+      {
+        "name": "Abandoned Deck, Gold Stakes",
+        "access_rules": [
+          ["abandoneddeckgoldstakeaccess"]
+        ],
+        "visibility_rules": [
+          ["abandoneddip","goldsip"],["abandoneddeckgoldstakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 600,
+            "y": 628
+          }
+        ]
+      },
+      {
+        "name": "Checkered Deck, White Stakes",
+        "access_rules": [
+          ["checkereddeckwhitestakeaccess"]
+        ],
+        "visibility_rules": [
+          ["checkereddip","whitesip"],["checkereddeckwhitestakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 662,
+            "y": 124
+          }
+        ]
+      },
+      {
+        "name": "Checkered Deck, Red Stakes",
+        "access_rules": [
+          ["checkereddeckredstakeaccess"]
+        ],
+        "visibility_rules": [
+          ["checkereddip","redsip"],["checkereddeckredstakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 662,
+            "y": 196
+          }
+        ]
+      },
+      {
+        "name": "Checkered Deck, Green Stakes",
+        "access_rules": [
+          ["checkereddeckgreenstakeaccess"]
+        ],
+        "visibility_rules": [
+          ["checkereddip","greensip"],["checkereddeckgreenstakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 662,
+            "y": 268
+          }
+        ]
+      },
+      {
+        "name": "Checkered Deck, Black Stakes",
+        "access_rules": [
+          ["checkereddeckblackstakeaccess"]
+        ],
+        "visibility_rules": [
+          ["checkereddip","blacksip"],["checkereddeckblackstakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 662,
+            "y": 340
+          }
+        ]
+      },
+      {
+        "name": "Checkered Deck, Blue Stakes",
+        "access_rules": [
+          ["checkereddeckbluestakeaccess"]
+        ],
+        "visibility_rules": [
+          ["checkereddip","bluesip"],["checkereddeckbluestakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 662,
+            "y": 412
+          }
+        ]
+      },
+      {
+        "name": "Checkered Deck, Purple Stakes",
+        "access_rules": [
+          ["checkereddeckpurplestakeaccess"]
+        ],
+        "visibility_rules": [
+          ["checkereddip","purplesip"],["checkereddeckpurplestakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 662,
+            "y": 484
+          }
+        ]
+      },
+      {
+        "name": "Checkered Deck, Orange Stakes",
+        "access_rules": [
+          ["checkereddeckorangestakeaccess"]
+        ],
+        "visibility_rules": [
+          ["checkereddip","orangesip"],["checkereddeckorangestakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 662,
+            "y": 556
+          }
+        ]
+      },
+      {
+        "name": "Checkered Deck, Gold Stakes",
+        "access_rules": [
+          ["checkereddeckgoldstakeaccess"]
+        ],
+        "visibility_rules": [
+          ["checkereddip","goldsip"],["checkereddeckgoldstakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 662,
+            "y": 628
+          }
+        ]
+      },
+      {
+        "name": "Zodiac Deck, White Stakes",
+        "access_rules": [
+          ["zodiacdeckwhitestakeaccess"]
+        ],
+        "visibility_rules": [
+          ["zodiacdip","whitesip"],["zodiacdeckwhitestakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 724,
+            "y": 124
+          }
+        ]
+      },
+      {
+        "name": "Zodiac Deck, Red Stakes",
+        "access_rules": [
+          ["zodiacdeckredstakeaccess"]
+        ],
+        "visibility_rules": [
+          ["zodiacdip","redsip"],["zodiacdeckredstakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 724,
+            "y": 196
+          }
+        ]
+      },
+      {
+        "name": "Zodiac Deck, Green Stakes",
+        "access_rules": [
+          ["zodiacdeckgreenstakeaccess"]
+        ],
+        "visibility_rules": [
+          ["zodiacdip","greensip"],["zodiacdeckgreenstakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 724,
+            "y": 268
+          }
+        ]
+      },
+      {
+        "name": "Zodiac Deck, Black Stakes",
+        "access_rules": [
+          ["zodiacdeckblackstakeaccess"]
+        ],
+        "visibility_rules": [
+          ["zodiacdip","blacksip"],["zodiacdeckblackstakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 724,
+            "y": 340
+          }
+        ]
+      },
+      {
+        "name": "Zodiac Deck, Blue Stakes",
+        "access_rules": [
+          ["zodiacdeckbluestakeaccess"]
+        ],
+        "visibility_rules": [
+          ["zodiacdip","bluesip"],["zodiacdeckbluestakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 724,
+            "y": 412
+          }
+        ]
+      },
+      {
+        "name": "Zodiac Deck, Purple Stakes",
+        "access_rules": [
+          ["zodiacdeckpurplestakeaccess"]
+        ],
+        "visibility_rules": [
+          ["zodiacdip","purplesip"],["zodiacdeckpurplestakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 724,
+            "y": 484
+          }
+        ]
+      },
+      {
+        "name": "Zodiac Deck, Orange Stakes",
+        "access_rules": [
+          ["zodiacdeckorangestakeaccess"]
+        ],
+        "visibility_rules": [
+          ["zodiacdip","orangesip"],["zodiacdeckorangestakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 724,
+            "y": 556
+          }
+        ]
+      },
+      {
+        "name": "Zodiac Deck, Gold Stakes",
+        "access_rules": [
+          ["zodiacdeckgoldstakeaccess"]
+        ],
+        "visibility_rules": [
+          ["zodiacdip","goldsip"],["zodiacdeckgoldstakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 724,
+            "y": 628
+          }
+        ]
+      },
+      {
+        "name": "Painted Deck, White Stakes",
+        "access_rules": [
+          ["painteddeckwhitestakeaccess"]
+        ],
+        "visibility_rules": [
+          ["painteddip","whitesip"],["painteddeckwhitestakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 786,
+            "y": 124
+          }
+        ]
+      },
+      {
+        "name": "Painted Deck, Red Stakes",
+        "access_rules": [
+          ["painteddeckredstakeaccess"]
+        ],
+        "visibility_rules": [
+          ["painteddip","redsip"],["painteddeckredstakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 786,
+            "y": 196
+          }
+        ]
+      },
+      {
+        "name": "Painted Deck, Green Stakes",
+        "access_rules": [
+          ["painteddeckgreenstakeaccess"]
+        ],
+        "visibility_rules": [
+          ["painteddip","greensip"],["painteddeckgreenstakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 786,
+            "y": 268
+          }
+        ]
+      },
+      {
+        "name": "Painted Deck, Black Stakes",
+        "access_rules": [
+          ["painteddeckblackstakeaccess"]
+        ],
+        "visibility_rules": [
+          ["painteddip","blacksip"],["painteddeckblackstakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 786,
+            "y": 340
+          }
+        ]
+      },
+      {
+        "name": "Painted Deck, Blue Stakes",
+        "access_rules": [
+          ["painteddeckbluestakeaccess"]
+        ],
+        "visibility_rules": [
+          ["painteddip","bluesip"],["painteddeckbluestakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 786,
+            "y": 412
+          }
+        ]
+      },
+      {
+        "name": "Painted Deck, Purple Stakes",
+        "access_rules": [
+          ["painteddeckpurplestakeaccess"]
+        ],
+        "visibility_rules": [
+          ["painteddip","purplesip"],["painteddeckpurplestakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 786,
+            "y": 484
+          }
+        ]
+      },
+      {
+        "name": "Painted Deck, Orange Stakes",
+        "access_rules": [
+          ["painteddeckorangestakeaccess"]
+        ],
+        "visibility_rules": [
+          ["painteddip","orangesip"],["painteddeckorangestakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 786,
+            "y": 556
+          }
+        ]
+      },
+      {
+        "name": "Painted Deck, Gold Stakes",
+        "access_rules": [
+          ["painteddeckgoldstakeaccess"]
+        ],
+        "visibility_rules": [
+          ["painteddip","goldsip"],["painteddeckgoldstakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 786,
+            "y": 628
+          }
+        ]
+      },
+      {
+        "name": "Anaglyph Deck, White Stakes",
+        "access_rules": [
+          ["anaglyphdeckwhitestakeaccess"]
+        ],
+        "visibility_rules": [
+          ["anaglyphdip","whitesip"],["anaglyphdeckwhitestakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 848,
+            "y": 124
+          }
+        ]
+      },
+      {
+        "name": "Anaglyph Deck, Red Stakes",
+        "access_rules": [
+          ["anaglyphdeckredstakeaccess"]
+        ],
+        "visibility_rules": [
+          ["anaglyphdip","redsip"],["anaglyphdeckredstakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 848,
+            "y": 196
+          }
+        ]
+      },
+      {
+        "name": "Anaglyph Deck, Green Stakes",
+        "access_rules": [
+          ["anaglyphdeckgreenstakeaccess"]
+        ],
+        "visibility_rules": [
+          ["anaglyphdip","greensip"],["anaglyphdeckgreenstakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 848,
+            "y": 268
+          }
+        ]
+      },
+      {
+        "name": "Anaglyph Deck, Black Stakes",
+        "access_rules": [
+          ["anaglyphdeckblackstakeaccess"]
+        ],
+        "visibility_rules": [
+          ["anaglyphdip","blacksip"],["anaglyphdeckblackstakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 848,
+            "y": 340
+          }
+        ]
+      },
+      {
+        "name": "Anaglyph Deck, Blue Stakes",
+        "access_rules": [
+          ["anaglyphdeckbluestakeaccess"]
+        ],
+        "visibility_rules": [
+          ["anaglyphdip","bluesip"],["anaglyphdeckbluestakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 848,
+            "y": 412
+          }
+        ]
+      },
+      {
+        "name": "Anaglyph Deck, Purple Stakes",
+        "access_rules": [
+          ["anaglyphdeckpurplestakeaccess"]
+        ],
+        "visibility_rules": [
+          ["anaglyphdip","purplesip"],["anaglyphdeckpurplestakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 848,
+            "y": 484
+          }
+        ]
+      },
+      {
+        "name": "Anaglyph Deck, Orange Stakes",
+        "access_rules": [
+          ["anaglyphdeckorangestakeaccess"]
+        ],
+        "visibility_rules": [
+          ["anaglyphdip","orangesip"],["anaglyphdeckorangestakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 848,
+            "y": 556
+          }
+        ]
+      },
+      {
+        "name": "Anaglyph Deck, Gold Stakes",
+        "access_rules": [
+          ["anaglyphdeckgoldstakeaccess"]
+        ],
+        "visibility_rules": [
+          ["anaglyphdip","goldsip"],["anaglyphdeckgoldstakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 848,
+            "y": 628
+          }
+        ]
+      },
+      {
+        "name": "Plasma Deck, White Stakes",
+        "access_rules": [
+          ["plasmadeckwhitestakeaccess"]
+        ],
+        "visibility_rules": [
+          ["plasmadip","whitesip"],["plasmadeckwhitestakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 910,
+            "y": 124
+          }
+        ]
+      },
+      {
+        "name": "Plasma Deck, Red Stakes",
+        "access_rules": [
+          ["plasmadeckredstakeaccess"]
+        ],
+        "visibility_rules": [
+          ["plasmadip","redsip"],["plasmadeckredstakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 910,
+            "y": 196
+          }
+        ]
+      },
+      {
+        "name": "Plasma Deck, Green Stakes",
+        "access_rules": [
+          ["plasmadeckgreenstakeaccess"]
+        ],
+        "visibility_rules": [
+          ["plasmadip","greensip"],["plasmadeckgreenstakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 910,
+            "y": 268
+          }
+        ]
+      },
+      {
+        "name": "Plasma Deck, Black Stakes",
+        "access_rules": [
+          ["plasmadeckblackstakeaccess"]
+        ],
+        "visibility_rules": [
+          ["plasmadip","blacksip"],["plasmadeckblackstakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 910,
+            "y": 340
+          }
+        ]
+      },
+      {
+        "name": "Plasma Deck, Blue Stakes",
+        "access_rules": [
+          ["plasmadeckbluestakeaccess"]
+        ],
+        "visibility_rules": [
+          ["plasmadip","bluesip"],["plasmadeckbluestakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 910,
+            "y": 412
+          }
+        ]
+      },
+      {
+        "name": "Plasma Deck, Purple Stakes",
+        "access_rules": [
+          ["plasmadeckpurplestakeaccess"]
+        ],
+        "visibility_rules": [
+          ["plasmadip","purplesip"],["plasmadeckpurplestakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 910,
+            "y": 484
+          }
+        ]
+      },
+      {
+        "name": "Plasma Deck, Orange Stakes",
+        "access_rules": [
+          ["plasmadeckorangestakeaccess"]
+        ],
+        "visibility_rules": [
+          ["plasmadip","orangesip"],["plasmadeckorangestakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 910,
+            "y": 556
+          }
+        ]
+      },
+      {
+        "name": "Plasma Deck, Gold Stakes",
+        "access_rules": [
+          ["plasmadeckgoldstakeaccess"]
+        ],
+        "visibility_rules": [
+          ["plasmadip","goldsip"],["plasmadeckgoldstakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 910,
+            "y": 628
+          }
+        ]
+      },
+      {
+        "name": "Erratic Deck, White Stakes",
+        "access_rules": [
+          ["erraticdeckwhitestakeaccess"]
+        ],
+        "visibility_rules": [
+          ["erraticdip","whitesip"],["erraticdeckwhitestakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 972,
+            "y": 124
+          }
+        ]
+      },
+      {
+        "name": "Erratic Deck, Red Stakes",
+        "access_rules": [
+          ["erraticdeckredstakeaccess"]
+        ],
+        "visibility_rules": [
+          ["erraticdip","redsip"],["erraticdeckredstakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 972,
+            "y": 196
+          }
+        ]
+      },
+      {
+        "name": "Erratic Deck, Green Stakes",
+        "access_rules": [
+           ["erraticdeckgreenstakeaccess"]
+        ],
+        "visibility_rules": [
+          ["erraticdip","greensip"],["erraticdeckgreenstakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 972,
+            "y": 268
+          }
+        ]
+      },
+      {
+        "name": "Erratic Deck, Black Stakes",
+        "access_rules": [
+          ["erraticdeckblackstakeaccess"]
+        ],
+        "visibility_rules": [
+          ["erraticdip","blacksip"],["erraticdeckblackstakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 972,
+            "y": 340
+          }
+        ]
+      },
+      {
+        "name": "Erratic Deck, Blue Stakes",
+        "access_rules": [
+          ["erraticdeckbluestakeaccess"]
+        ],
+        "visibility_rules": [
+          ["erraticdip","bluesip"],["erraticdeckbluestakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 972,
+            "y": 412
+          }
+        ]
+      },
+      {
+        "name": "Erratic Deck, Purple Stakes",
+        "access_rules": [
+          ["erraticdeckpurplestakeaccess"]
+        ],
+        "visibility_rules": [
+          ["erraticdip","purplesip"],["erraticdeckpurplestakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 972,
+            "y": 484
+          }
+        ]
+      },
+      {
+        "name": "Erratic Deck, Orange Stakes",
+        "access_rules": [
+          ["erraticdeckorangestakeaccess"]
+        ],
+        "visibility_rules": [
+          ["erraticdip","orangesip"],["erraticdeckorangestakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 972,
+            "y": 556
+          }
+        ]
+      },
+      {
+        "name": "Erratic Deck, Gold Stakes",
+        "access_rules": [
+          ["erraticdeckgoldstakeaccess"]
+        ],
+        "visibility_rules": [
+          ["erraticdip","goldsip"],["erraticdeckgoldstakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Ante 1",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 2",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 3",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 4",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 5",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 6",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 7",
+            "item_count": 1
+          },
+          {
+            "name": "Ante 8",
+            "item_count": 1
+          },
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 972,
+            "y": 628
+          }
+        ]
+      },
+      {
+        "name": "Shop Items, White Stakes",
+        "access_rules": [
+          ["reddeckwhitestakeaccess"],["bluedeckwhitestakeaccess"],["yellowdeckwhitestakeaccess"],["greendeckwhitestakeaccess"],["blackdeckwhitestakeaccess"],["magicdeckwhitestakeaccess"],["nebuladeckwhitestakeaccess"],["ghostdeckwhitestakeaccess"],["abandoneddeckwhitestakeaccess"],["checkereddeckwhitestakeaccess"],["zodiacdeckwhitestakeaccess"],["painteddeckwhitestakeaccess"],["anaglyphdeckwhitestakeaccess"],["plasmadeckwhitestakeaccess"],["erraticdeckwhitestakeaccess"]
+        ],
+        "visibility_rules": [
+          ["whitesip"],["reddeckwhitestakeaccess"],["bluedeckwhitestakeaccess"],["yellowdeckwhitestakeaccess"],["greendeckwhitestakeaccess"],["blackdeckwhitestakeaccess"],["magicdeckwhitestakeaccess"],["nebuladeckwhitestakeaccess"],["ghostdeckwhitestakeaccess"],["abandoneddeckwhitestakeaccess"],["checkereddeckwhitestakeaccess"],["zodiacdeckwhitestakeaccess"],["painteddeckwhitestakeaccess"],["anaglyphdeckwhitestakeaccess"],["plasmadeckwhitestakeaccess"],["erraticdeckwhitestakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Shop Items",
+            "item_count": 150,
+            "clear_as_group":false
+          }
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 1040,
+            "y": 124
+          }
+        ]
+      },
+      {
+        "name": "Shop Items, Red Stakes",
+        "access_rules": [
+          ["reddeckredstakeaccess"],["bluedeckredstakeaccess"],["yellowdeckredstakeaccess"],["greendeckredstakeaccess"],["blackdeckredstakeaccess"],["magicdeckredstakeaccess"],["nebuladeckredstakeaccess"],["ghostdeckredstakeaccess"],["abandoneddeckredstakeaccess"],["checkereddeckredstakeaccess"],["zodiacdeckredstakeaccess"],["painteddeckredstakeaccess"],["anaglyphdeckredstakeaccess"],["plasmadeckredstakeaccess"],["erraticdeckredstakeaccess"]
+
+        ],
+        "visibility_rules": [
+          ["redsip"],["reddeckredstakeaccess"],["bluedeckredstakeaccess"],["yellowdeckredstakeaccess"],["greendeckredstakeaccess"],["blackdeckredstakeaccess"],["magicdeckredstakeaccess"],["nebuladeckredstakeaccess"],["ghostdeckredstakeaccess"],["abandoneddeckredstakeaccess"],["checkereddeckredstakeaccess"],["zodiacdeckredstakeaccess"],["painteddeckredstakeaccess"],["anaglyphdeckredstakeaccess"],["plasmadeckredstakeaccess"],["erraticdeckredstakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Shop Items",
+            "item_count": 150,
+            "clear_as_group":false
+          }
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 1040,
+            "y": 196
+          }
+        ]
+      },
+      {
+        "name": "Shop Items, Green Stakes",
+        "access_rules": [
+          ["reddeckgreenstakeaccess"],["bluedeckgreenstakeaccess"],["yellowdeckgreenstakeaccess"],["greendeckgreenstakeaccess"],["blackdeckgreenstakeaccess"],["magicdeckgreenstakeaccess"],["nebuladeckgreenstakeaccess"],["ghostdeckgreenstakeaccess"],["abandoneddeckgreenstakeaccess"],["checkereddeckgreenstakeaccess"],["zodiacdeckgreenstakeaccess"],["painteddeckgreenstakeaccess"],["anaglyphdeckgreenstakeaccess"],["plasmadeckgreenstakeaccess"],["erraticdeckgreenstakeaccess"]
+
+        ],
+        "visibility_rules": [
+          ["greensip"],["reddeckgreenstakeaccess"],["bluedeckgreenstakeaccess"],["yellowdeckgreenstakeaccess"],["greendeckgreenstakeaccess"],["blackdeckgreenstakeaccess"],["magicdeckgreenstakeaccess"],["nebuladeckgreenstakeaccess"],["ghostdeckgreenstakeaccess"],["abandoneddeckgreenstakeaccess"],["checkereddeckgreenstakeaccess"],["zodiacdeckgreenstakeaccess"],["painteddeckgreenstakeaccess"],["anaglyphdeckgreenstakeaccess"],["plasmadeckgreenstakeaccess"],["erraticdeckgreenstakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Shop Items",
+            "item_count": 150,
+            "clear_as_group":false
+          }
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 1040,
+            "y": 268
+          }
+        ]
+      },
+      {
+        "name": "Shop Items, Black Stakes",
+        "access_rules": [
+          ["reddeckblackstakeaccess"],["bluedeckblackstakeaccess"],["yellowdeckblackstakeaccess"],["greendeckblackstakeaccess"],["blackdeckblackstakeaccess"],["magicdeckblackstakeaccess"],["nebuladeckblackstakeaccess"],["ghostdeckblackstakeaccess"],["abandoneddeckblackstakeaccess"],["checkereddeckblackstakeaccess"],["zodiacdeckblackstakeaccess"],["painteddeckblackstakeaccess"],["anaglyphdeckblackstakeaccess"],["plasmadeckblackstakeaccess"],["erraticdeckblackstakeaccess"]
+
+        ],
+        "visibility_rules": [
+          ["blacksip"],["reddeckblackstakeaccess"],["bluedeckblackstakeaccess"],["yellowdeckblackstakeaccess"],["greendeckblackstakeaccess"],["blackdeckblackstakeaccess"],["magicdeckblackstakeaccess"],["nebuladeckblackstakeaccess"],["ghostdeckblackstakeaccess"],["abandoneddeckblackstakeaccess"],["checkereddeckblackstakeaccess"],["zodiacdeckblackstakeaccess"],["painteddeckblackstakeaccess"],["anaglyphdeckblackstakeaccess"],["plasmadeckblackstakeaccess"],["erraticdeckblackstakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Shop Items",
+            "item_count": 150,
+            "clear_as_group":false
+          }
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 1040,
+            "y": 340
+          }
+        ]
+      },
+      {
+        "name": "Shop Items, Blue Stakes",
+        "access_rules": [
+          ["reddeckbluestakeaccess"],["bluedeckbluestakeaccess"],["yellowdeckbluestakeaccess"],["greendeckbluestakeaccess"],["blackdeckbluestakeaccess"],["magicdeckbluestakeaccess"],["nebuladeckbluestakeaccess"],["ghostdeckbluestakeaccess"],["abandoneddeckbluestakeaccess"],["checkereddeckbluestakeaccess"],["zodiacdeckbluestakeaccess"],["painteddeckbluestakeaccess"],["anaglyphdeckbluestakeaccess"],["plasmadeckbluestakeaccess"],["erraticdeckbluestakeaccess"]
+
+        ],
+        "visibility_rules": [
+          ["bluesip"],["reddeckbluestakeaccess"],["bluedeckbluestakeaccess"],["yellowdeckbluestakeaccess"],["greendeckbluestakeaccess"],["blackdeckbluestakeaccess"],["magicdeckbluestakeaccess"],["nebuladeckbluestakeaccess"],["ghostdeckbluestakeaccess"],["abandoneddeckbluestakeaccess"],["checkereddeckbluestakeaccess"],["zodiacdeckbluestakeaccess"],["painteddeckbluestakeaccess"],["anaglyphdeckbluestakeaccess"],["plasmadeckbluestakeaccess"],["erraticdeckbluestakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Shop Items",
+            "item_count": 150,
+            "clear_as_group":false
+          }
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 1040,
+            "y": 412
+          }
+        ]
+      },
+      {
+        "name": "Shop Items, Purple Stakes",
+        "access_rules": [
+          ["reddeckpurplestakeaccess"],["bluedeckpurplestakeaccess"],["yellowdeckpurplestakeaccess"],["greendeckpurplestakeaccess"],["blackdeckpurplestakeaccess"],["magicdeckpurplestakeaccess"],["nebuladeckpurplestakeaccess"],["ghostdeckpurplestakeaccess"],["abandoneddeckpurplestakeaccess"],["checkereddeckpurplestakeaccess"],["zodiacdeckpurplestakeaccess"],["painteddeckpurplestakeaccess"],["anaglyphdeckpurplestakeaccess"],["plasmadeckpurplestakeaccess"],["erraticdeckpurplestakeaccess"]
+
+        ],
+        "visibility_rules": [
+          ["purplesip"],["reddeckpurplestakeaccess"],["bluedeckpurplestakeaccess"],["yellowdeckpurplestakeaccess"],["greendeckpurplestakeaccess"],["blackdeckpurplestakeaccess"],["magicdeckpurplestakeaccess"],["nebuladeckpurplestakeaccess"],["ghostdeckpurplestakeaccess"],["abandoneddeckpurplestakeaccess"],["checkereddeckpurplestakeaccess"],["zodiacdeckpurplestakeaccess"],["painteddeckpurplestakeaccess"],["anaglyphdeckpurplestakeaccess"],["plasmadeckpurplestakeaccess"],["erraticdeckpurplestakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Shop Items",
+            "item_count": 150,
+            "clear_as_group":false
+          }
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 1040,
+            "y": 484
+          }
+        ]
+      },
+      {
+        "name": "Shop Items, Orange Stakes",
+        "access_rules": [
+          ["reddeckorangestakeaccess"],["bluedeckorangestakeaccess"],["yellowdeckorangestakeaccess"],["greendeckorangestakeaccess"],["blackdeckorangestakeaccess"],["magicdeckorangestakeaccess"],["nebuladeckorangestakeaccess"],["ghostdeckorangestakeaccess"],["abandoneddeckorangestakeaccess"],["checkereddeckorangestakeaccess"],["zodiacdeckorangestakeaccess"],["painteddeckorangestakeaccess"],["anaglyphdeckorangestakeaccess"],["plasmadeckorangestakeaccess"],["erraticdeckorangestakeaccess"]
+
+        ],
+        "visibility_rules": [
+          ["orangesip"],["reddeckorangestakeaccess"],["bluedeckorangestakeaccess"],["yellowdeckorangestakeaccess"],["greendeckorangestakeaccess"],["blackdeckorangestakeaccess"],["magicdeckorangestakeaccess"],["nebuladeckorangestakeaccess"],["ghostdeckorangestakeaccess"],["abandoneddeckorangestakeaccess"],["checkereddeckorangestakeaccess"],["zodiacdeckorangestakeaccess"],["painteddeckorangestakeaccess"],["anaglyphdeckorangestakeaccess"],["plasmadeckorangestakeaccess"],["erraticdeckorangestakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Shop Items",
+            "item_count": 150,
+            "clear_as_group":false
+          }
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 1040,
+            "y": 556
+          }
+        ]
+      },
+      {
+        "name": "Shop Items, Gold Stakes",
+        "access_rules": [
+          ["reddeckgoldstakeaccess"],["bluedeckgoldstakeaccess"],["yellowdeckgoldstakeaccess"],["greendeckgoldstakeaccess"],["blackdeckgoldstakeaccess"],["magicdeckgoldstakeaccess"],["nebuladeckgoldstakeaccess"],["ghostdeckgoldstakeaccess"],["abandoneddeckgoldstakeaccess"],["checkereddeckgoldstakeaccess"],["zodiacdeckgoldstakeaccess"],["painteddeckgoldstakeaccess"],["anaglyphdeckgoldstakeaccess"],["plasmadeckgoldstakeaccess"],["erraticdeckgoldstakeaccess"]
+          
+        ],
+        "visibility_rules": [
+          ["goldsip"],["reddeckgoldstakeaccess"],["bluedeckgoldstakeaccess"],["yellowdeckgoldstakeaccess"],["greendeckgoldstakeaccess"],["blackdeckgoldstakeaccess"],["magicdeckgoldstakeaccess"],["nebuladeckgoldstakeaccess"],["ghostdeckgoldstakeaccess"],["abandoneddeckgoldstakeaccess"],["checkereddeckgoldstakeaccess"],["zodiacdeckgoldstakeaccess"],["painteddeckgoldstakeaccess"],["anaglyphdeckgoldstakeaccess"],["plasmadeckgoldstakeaccess"],["erraticdeckgoldstakeaccess"]
+        ],
+        "sections": [
+          {
+            "name": "Shop Items",
+            "item_count": 150,
+            "clear_as_group":false
+          }
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 1040,
+            "y": 628
+          }
+        ]
+      },
+      {
+        "name": "Consumables",
+        "access_rules": [
+          ["aptarot"],["apbelt"],["apspectral"]
+        ],
+        "visibility_rules": [
+        ],
+        "sections": [
+          {
+            "name": "Consumables",
+            "item_count": 300,
+            "clear_as_group":false
+          }
+        ],
+        "map_locations": [
+          {
+            "size":20,
+            "map": "Deck, Stake, Ante Checks",
+            "x": 1132,
+            "y": 412
+          }
+        ]
+      }
+    ]
+  }
+]
