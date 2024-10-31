@@ -1065,10 +1065,10 @@
     "name": "Satellite",
     "type": "toggle",
 
-        "disabled_img": "images/items/jokers/disabled/Satelite.png",
-        "codes": "satelite",
+        "disabled_img": "images/items/jokers/disabled/Satellite.png",
+        "codes": "satellite",
         
-        "img": "images/items/jokers/Satelite.png",
+        "img": "images/items/jokers/Satellite.png",
     "disabled_img_mods":"none"
   },
   {

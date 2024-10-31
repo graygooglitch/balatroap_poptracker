@@ -4,7 +4,7 @@
   // for more info on the manifest check: https://github.com/black-sliver/PopTracker/blob/master/doc/PACKS.md#manifest
   "name": "BalatroAP Tracker",
   "game_name": "Balatro",
-  "package_version": "0.9.1.0",
+  "package_version": "0.9.1.1",
   "package_uid": "balatroap",
   // enables SNES memory autotracking interface - remove/change if not needed
   "author": "GrayGooGirl",
