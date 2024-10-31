@@ -57,6 +57,134 @@
       }
     ]
   },
+  "common_grid": {
+    "type": "array",
+    "orientation": "vertical",
+    "margin": "0,0",
+    "content": [
+      {
+        "type": "array",
+        "orientation": "horizontal",
+        "margin": "0,0",
+        "content": [
+          {
+            "type": "itemgrid",
+            "item_margin": "-12,1",
+            "h_alignment": "center",
+            "item_size": 100,
+            "rows": [
+              ["joker","greedy","lusty","wrathful","gluttonous","jolly","zany","mad","crazy","droll","sly","wily","clever","devious","crafty"],
+              ["half","creditcard","banner","mysticsummit","8ball","misprint","raisedfist","chaostheclown","scaryface","abstract","delayedgratification","grosmichel","evensteven","oddtodd","scholar"],
+              ["businesscard","supernova","ridethebus","egg","runner","icecream","splash","blue","faceless","green","superposition","todolist","cavendish","redcard","square"],
+              ["riffraff","photograph","reservedparking","mailinrebate","hallucination","fortuneteller","juggler","drunkard","goldenjoker","popcorn","walkietalkie","smileyface","goldenticket","swashbuckler","hangingchad"]
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "uncommon_grid": {
+    "type": "array",
+    "orientation": "vertical",
+    "margin": "0,0",
+    "content": [
+      {
+        "type": "array",
+        "orientation": "horizontal",
+        "margin": "0,0",
+        "content": [
+          {
+            "type": "itemgrid",
+            "item_margin": "-12,1",
+            "h_alignment": "left",
+            "item_size": 100,
+            "rows": [
+              ["jokerstencil","fourfingers","mime","ceremonialdagger","marblejoker","loyaltycard","dusk","fibonacci","steeljoker","hack","pareidolia","spacejoker","burglar","blackboard","sixthsense","constellation"],
+              ["hiker","cardsharp","madness","seance","vampire","shortcut","hologram","cloud9","rocket","midasmask","luchador","giftcard","turtlebean","erosion","tothemoon","stone"],
+              ["luckycat","bull","dietcola","tradingcard","flashcard","sparetrousers","ramen","seltzer","castle","mrbones","acrobat","sockandbuskin","troubadour","certificate","smeared","throwback"],
+              ["roughgem","bloodstone","arrowhead","onyxagate","glassjoker","showman","flowerpot","merryandy","oopsall6s","theidol","seeingdouble","matador","satelite","cartomancer","astronomer","bootstrap"]
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "rare_grid": {
+    "type": "array",
+    "orientation": "vertical",
+    "margin": "0,0",
+    "content": [
+      {
+        "type": "array",
+        "orientation": "horizontal",
+        "margin": "0,0",
+        "content": [
+          {
+            "type": "itemgrid",
+            "item_margin": "-12,1",
+            "h_alignment": "center",
+            "item_size": 120,
+            "rows": [
+              ["dna","vagabond","baron","obelisk","baseballcard","ancient","campfire","blueprint","wee","hittheroad"],
+              ["theduo","thetrio","thefamily","theorder","thetribe","stuntman","invisible","brainstorm","driverslicense","burnt"],
+              ["canio","triboulet","yorick","chicot","perkeo"]
+
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "consumable_grid": {
+    "type": "array",
+    "orientation": "vertical",
+    "margin": "0,0",
+    "content": [
+      {
+        "type": "array",
+        "orientation": "horizontal",
+        "margin": "0,0",
+        "content": [
+          {
+            "type": "itemgrid",
+            "item_margin": "-12,1",
+            "h_alignment": "center",
+            "item_size": 100,
+            "rows": [
+              ["fool","magician","highpriestess","empress","emperor","hierophant","lovers","chariot","justice","hermit","wheeloffortune","strength","hangedman"],
+              ["death","temperance","devil","tower","star","moon","sun","judgement","world","familiar","grim","incantation","talisman"],
+              ["aura","wraith","sigil","ouija","ectoplasm","immolate","ankh","dejavu","hex","trance","medium","cryptid","soul"],
+              ["pluto","mercury","uranus","venus","saturn","jupiter","earth","mars","neptune","planet_x","ceres","eris","blackhole"]
+
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "Strong / Synergies": {
+    "type": "array",
+    "orientation": "vertical",
+    "margin": "0,0",
+    "content": [
+      {
+        "type": "array",
+        "orientation": "horizontal",
+        "margin": "0,0",
+        "content": [
+          {
+            "type": "itemgrid",
+            "item_margin": "-3,1",
+            "h_alignment": "left",
+            "item_size": 70,
+            "rows": [
+
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "voucher_con_grid": {
     "type": "array",
     "orientation": "vertical",
@@ -69,7 +197,7 @@
         "content": [
           {
             "type": "itemgrid",
-            "item_margin": "-8,3",
+            "item_margin": "-15,3",
             "h_alignment": "left",
             "item_size": 105,
             "rows": [
@@ -81,7 +209,7 @@
             "type": "itemgrid",
             "item_margin": "-3,1",
             "h_alignment": "center",
-            "item_size": 100,
+            "item_size": 85,
             "rows": [
               ["bonusjoker","bonushandsize","bonushands","bonusconsumables","bonusdiscards","bonusstartingcash","bonusmaxinterest"]
             ]

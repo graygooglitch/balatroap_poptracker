@@ -61,21 +61,39 @@
                 "type": "tabbed",
                 "tabs": [
                 {
-                  "title": "Cards 1",
+                  "title": "Common Jokers",
                   "content": {
                     "type": "layout",
                     "h_alignment": "center",
                     "v_alignment": "center",
-                    "key": "shared_item_grid"
+                    "key": "common_grid"
                   }
                 },
                 {
-                  "title": "Cards 2",
+                  "title": "Uncommon Jokers",
                   "content": {
                     "type": "layout",
                     "h_alignment": "center",
                     "v_alignment": "center",
-                    "key": "jokers_2"
+                    "key": "uncommon_grid"
+                  }
+                },
+                {
+                  "title": "Rare / Legendary Jokers",
+                  "content": {
+                    "type": "layout",
+                    "h_alignment": "center",
+                    "v_alignment": "center",
+                    "key": "rare_grid"
+                  }
+                },
+                {
+                  "title": "Consumables",
+                  "content": {
+                    "type": "layout",
+                    "h_alignment": "center",
+                    "v_alignment": "center",
+                    "key": "consumable_grid"
                   }
                 }
               ]
