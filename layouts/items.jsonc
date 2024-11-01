@@ -151,10 +151,10 @@
             "h_alignment": "center",
             "item_size": 100,
             "rows": [
-              ["fool","magician","highpriestess","empress","emperor","hierophant","lovers","chariot","justice","hermit","wheeloffortune","strength","hangedman"],
-              ["death","temperance","devil","tower","star","moon","sun","judgement","world","familiar","grim","incantation","talisman"],
-              ["aura","wraith","sigil","ouija","ectoplasm","immolate","ankh","dejavu","hex","trance","medium","cryptid","soul"],
-              ["pluto","mercury","uranus","venus","saturn","jupiter","earth","mars","neptune","planet_x","ceres","eris","blackhole"]
+              ["fool","magician","highpriestess","empress","emperor","hierophant","lovers","chariot","justice","hermit","wheeloffortune","strength","hangedman",""],
+              ["familiar","grim","incantation","talisman","death","temperance","devil","tower","star","moon","sun","judgement","world","aptarot"],
+              ["aura","wraith","sigil","ouija","ectoplasm","immolate","ankh","dejavu","hex","trance","medium","cryptid","soul","apspectral"],
+              ["pluto","mercury","uranus","venus","saturn","jupiter","earth","mars","neptune","planet_x","ceres","eris","blackhole","apbelt"]
 
             ]
           }
@@ -230,13 +230,13 @@
         "content": [
           {
             "type": "itemgrid",
-            "item_margin": "-4,4",
+            "item_margin": "-16,4",
             "h_alignment": "left",
-            "item_size": 105,
+            "item_size": 128,
             "rows": [
-              ["arcanapack","celestialpack","standardpack","spectralpack","baffoonpack"],
-              ["jumboarcanapack","jumbocelestialpack","jumbostandardpack","jumbospectralpack","jumbobaffoonpack"],
-              ["megaarcanapack","megacelestialpack","megastandardpack","megaspectralpack","megabaffoonpack"]
+              ["jbcon","tbcon","arcanapack","celestialpack","standardpack","spectralpack","baffoonpack"],
+              ["","sbcon","jumboarcanapack","jumbocelestialpack","jumbostandardpack","jumbospectralpack","jumbobaffoonpack"],
+              ["","pbcon","megaarcanapack","megacelestialpack","megastandardpack","megaspectralpack","megabaffoonpack"]
             ]
           }
         ]
@@ -271,6 +271,54 @@
             "item_size": 70,
             "rows": [
             ["whitestake","redstake","greenstake","blackstake","bluestake","purplestake","orangestake","goldstake"]
+            ]
+          }
+
+        ]
+      }
+    ]
+  },
+  "manual_grid": {
+    "type": "array",
+    "orientation": "vertical",
+    "margin": "0,0",
+    "content": [
+      {
+        "type": "array",
+        "orientation": "",
+        "margin": "6,0",
+        "content": [
+          {
+            "type": "itemgrid",
+            "item_margin": "-6,1",
+            "h_alignment": "center",
+            "item_size": 52,
+            "rows": [
+              ["reddecklayoutonly","bluedecklayoutonly","yellowdecklayoutonly","greendecklayoutonly","blackdecklayoutonly","magicdecklayoutonly","nebuladecklayoutonly","ghostdecklayoutonly","abandoneddecklayoutonly","checkereddecklayoutonly","zodiacdecklayoutonly","painteddecklayoutonly","anaglyphdecklayoutonly","plasmadecklayoutonly","erraticdecklayoutonly"]
+            ]
+          }
+
+        ]
+      },{
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+          {
+            "type": "itemgrid",
+            "item_margin": "0,0",
+            "v_alignment":"bottom",
+            "h_alignment": "left",
+            "item_size": 40,
+            "rows": [
+            ["reddeckwhitestakeaccess","bluedeckwhitestakeaccess","yellowdeckwhitestakeaccess","greendeckwhitestakeaccess","blackdeckwhitestakeaccess","magicdeckwhitestakeaccess","nebuladeckwhitestakeaccess","ghostdeckwhitestakeaccess","abandoneddeckwhitestakeaccess","checkereddeckwhitestakeaccess","zodiacdeckwhitestakeaccess","painteddeckwhitestakeaccess","anaglyphdeckwhitestakeaccess","plasmadeckwhitestakeaccess","erraticdeckwhitestakeaccess"],
+            ["reddeckredstakeaccess","bluedeckredstakeaccess","yellowdeckredstakeaccess","greendeckredstakeaccess","blackdeckredstakeaccess","magicdeckredstakeaccess","nebuladeckredstakeaccess","ghostdeckredstakeaccess","abandoneddeckredstakeaccess","checkereddeckredstakeaccess","zodiacdeckredstakeaccess","painteddeckredstakeaccess","anaglyphdeckredstakeaccess","plasmadeckredstakeaccess","erraticdeckredstakeaccess"],
+            ["reddeckgreenstakeaccess","bluedeckgreenstakeaccess","yellowdeckgreenstakeaccess","greendeckgreenstakeaccess","blackdeckgreenstakeaccess","magicdeckgreenstakeaccess","nebuladeckgreenstakeaccess","ghostdeckgreenstakeaccess","abandoneddeckgreenstakeaccess","checkereddeckgreenstakeaccess","zodiacdeckgreenstakeaccess","painteddeckgreenstakeaccess","anaglyphdeckgreenstakeaccess","plasmadeckgreenstakeaccess","erraticdeckgreenstakeaccess"],
+            ["reddeckblackstakeaccess","bluedeckblackstakeaccess","yellowdeckblackstakeaccess","greendeckblackstakeaccess","blackdeckblackstakeaccess","magicdeckblackstakeaccess","nebuladeckblackstakeaccess","ghostdeckblackstakeaccess","abandoneddeckblackstakeaccess","checkereddeckblackstakeaccess","zodiacdeckblackstakeaccess","painteddeckblackstakeaccess","anaglyphdeckblackstakeaccess","plasmadeckblackstakeaccess","erraticdeckblackstakeaccess"],
+            ["reddeckbluestakeaccess","bluedeckbluestakeaccess","yellowdeckbluestakeaccess","greendeckbluestakeaccess","blackdeckbluestakeaccess","magicdeckbluestakeaccess","nebuladeckbluestakeaccess","ghostdeckbluestakeaccess","abandoneddeckbluestakeaccess","checkereddeckbluestakeaccess","zodiacdeckbluestakeaccess","painteddeckbluestakeaccess","anaglyphdeckbluestakeaccess","plasmadeckbluestakeaccess","erraticdeckbluestakeaccess"],
+            ["reddeckpurplestakeaccess","bluedeckpurplestakeaccess","yellowdeckpurplestakeaccess","greendeckpurplestakeaccess","blackdeckpurplestakeaccess","magicdeckpurplestakeaccess","nebuladeckpurplestakeaccess","ghostdeckpurplestakeaccess","abandoneddeckpurplestakeaccess","checkereddeckpurplestakeaccess","zodiacdeckpurplestakeaccess","painteddeckpurplestakeaccess","anaglyphdeckpurplestakeaccess","plasmadeckpurplestakeaccess","erraticdeckpurplestakeaccess"],
+            ["reddeckorangestakeaccess","bluedeckorangestakeaccess","yellowdeckorangestakeaccess","greendeckorangestakeaccess","blackdeckorangestakeaccess","magicdeckorangestakeaccess","nebuladeckorangestakeaccess","ghostdeckorangestakeaccess","abandoneddeckorangestakeaccess","checkereddeckorangestakeaccess","zodiacdeckorangestakeaccess","painteddeckorangestakeaccess","anaglyphdeckorangestakeaccess","plasmadeckorangestakeaccess","erraticdeckorangestakeaccess"],
+            ["reddeckgoldstakeaccess","bluedeckgoldstakeaccess","yellowdeckgoldstakeaccess","greendeckgoldstakeaccess","blackdeckgoldstakeaccess","magicdeckgoldstakeaccess","nebuladeckgoldstakeaccess","ghostdeckgoldstakeaccess","abandoneddeckgoldstakeaccess","checkereddeckgoldstakeaccess","zodiacdeckgoldstakeaccess","painteddeckgoldstakeaccess","anaglyphdeckgoldstakeaccess","plasmadeckgoldstakeaccess","erraticdeckgoldstakeaccess"]
             ]
           }
 

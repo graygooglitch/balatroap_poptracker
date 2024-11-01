@@ -266,6 +266,10 @@ function apply_slot_data(slot_data)
 	TAROT_BUNDLES = slot_data["tarot_bundles"]
 	INCLUDED_DECKS = slot_data["included_decks"]
 	STAKE_ORDER = slot_data["included_stakes"]
+	local planet_bundles = slot_data["planet_bundles"]
+	local tarot_bundles = slot_data["tarot_bundles"]
+	local spectral_bundles = slot_data["spectral_bundles"]
+	local joker_bundles = slot_data["jokerbundles"]
 
 	--handle setting consumables max
 	local consumables = slot_data["consumable_pool_locations"]
@@ -298,7 +302,35 @@ function apply_slot_data(slot_data)
 	obj = Tracker:FindObjectForCode("@Grid/Shop Items, Gold Stakes/Shop Items")
 	obj.AvailableChestCount = shop_length
 	--
+	-- get number of bundles for each bundle and set maximium on the consumable
 	
+	local bundle_length = 0
+	for Index, Value in pairs( planet_bundles ) do
+		bundle_length = bundle_length + 1
+	end
+	obj = Tracker:FindObjectForCode("pbcon")
+	obj.MaxCount = bundle_length
+
+	bundle_length = 0
+	for Index, Value in pairs( spectral_bundles ) do
+		bundle_length = bundle_length + 1
+	end
+	obj = Tracker:FindObjectForCode("sbcon")
+	obj.MaxCount = bundle_length 
+
+	bundle_length = 0
+	for Index, Value in pairs( tarot_bundles ) do
+		bundle_length = bundle_length + 1
+	end
+	obj = Tracker:FindObjectForCode("tbcon")
+	obj.MaxCount = bundle_length 
+
+	bundle_length = 0
+	for Index, Value in pairs( joker_bundles ) do
+		bundle_length = bundle_length + 1
+	end
+	obj = Tracker:FindObjectForCode("jbcon")
+	obj.MaxCount = bundle_length 
 	--set visibility for decks and stakes
 	for _, stake in ipairs(STAKE_ORDER) do
 		if stake == 1 then Tracker:FindObjectForCode("whitesip").Active = true end

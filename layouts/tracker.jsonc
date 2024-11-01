@@ -108,7 +108,7 @@
                 "type": "tabbed",
                 "tabs": [
                   {
-                    "title": "Vouchers",
+                    "title": "Vouchers & Permanent Upgrades",
                     "content": {
                       "type": "layout",
                       "h_alignment": "center",
@@ -117,7 +117,7 @@
                     }
                   },
                 {
-                  "title": "Packs & Permanent Upgrades",
+                  "title": "Packs & Bundles",
                   "content": {
                     "type": "layout",
                     "h_alignment": "center",
@@ -132,6 +132,15 @@
                     "h_alignment": "center",
                     "v_alignment": "center",
                     "key": "settings_grid"
+                  }
+                },
+                {
+                  "title": "Manual Map Control",
+                  "content": {
+                    "type": "layout",
+                    "h_alignment": "center",
+                    "v_alignment": "center",
+                    "key": "manual_grid"
                   }
                 }
               ]
