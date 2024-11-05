@@ -119,10 +119,67 @@ function incrementItem(item_code, item_type)
 			print(string.format(
 				"incrementItem: tried to increment composite_toggle item %s but composite_toggle cannot be access via lua." ..
 				"Please use the respective left/right toggle item codes instead.", item_code))
-		
 		elseif AUTOTRACKER_ENABLE_DEBUG_LOGGING_AP then
 			print(string.format("incrementItem: unknown item type %s for code %s", item_type, item_code))
 		end
+		if STAKE_UNLOCK_MODE == 0 then
+			local deckid = 0
+			if string.find(item_code,"reddeck") then deckid = 1 end
+			if string.find(item_code,"bluedeck") then deckid = 2 end
+			if string.find(item_code,"yellowdeck") then deckid = 3 end
+			if string.find(item_code,"greendeck") then deckid = 4 end
+			if string.find(item_code,"blackdeck") then deckid = 5 end
+			if string.find(item_code,"magicdeck") then deckid = 6 end
+			if string.find(item_code,"nebuladeck") then deckid = 7 end
+			if string.find(item_code,"ghostdeck") then deckid = 8 end
+			if string.find(item_code,"abandoneddeck") then deckid = 9 end
+			if string.find(item_code,"checkereddeck") then deckid = 10 end
+			if string.find(item_code,"tarotdeck") then deckid = 11 end
+			if string.find(item_code,"painteddeck") then deckid = 12 end
+			if string.find(item_code,"anaglyphdeck") then deckid = 13 end
+			if string.find(item_code,"plasmadeck") then deckid = 14 end
+			if string.find(item_code,"erraticdeck") then deckid = 15 end
+			if deckid ~= 0 then
+				--it was a deck
+				for index, stakes in ipairs(STAKE_ORDER) do
+					Tracker:FindObjectForCode(ALL_DECKS[deckid].."deck"..ALL_STAKES[STAKE_ORDER[index]].."access").Active = true
+				end
+			end
+		end
+
+		if STAKE_UNLOCK_MODE == 1 or STAKE_UNLOCK_MODE == 2 then
+			local deckid = 0
+			if string.find(item_code,"reddeck") then deckid = 1 end
+			if string.find(item_code,"bluedeck") then deckid = 2 end
+			if string.find(item_code,"yellowdeck") then deckid = 3 end
+			if string.find(item_code,"greendeck") then deckid = 4 end
+			if string.find(item_code,"blackdeck") then deckid = 5 end
+			if string.find(item_code,"magicdeck") then deckid = 6 end
+			if string.find(item_code,"nebuladeck") then deckid = 7 end
+			if string.find(item_code,"ghostdeck") then deckid = 8 end
+			if string.find(item_code,"abandoneddeck") then deckid = 9 end
+			if string.find(item_code,"checkereddeck") then deckid = 10 end
+			if string.find(item_code,"tarotdeck") then deckid = 11 end
+			if string.find(item_code,"painteddeck") then deckid = 12 end
+			if string.find(item_code,"anaglyphdeck") then deckid = 13 end
+			if string.find(item_code,"plasmadeck") then deckid = 14 end
+			if string.find(item_code,"erraticdeck") then deckid = 15 end
+			if deckid ~= 0 then
+				--it was a deck
+				-- Unlock in order, find first and unlock all active decks for that stake
+				local firststake = STAKE_ORDER[1]
+				for incindex, incdeck in pairs( INCLUDED_DECKS ) do
+					local activedeck = 0
+					for deckindex, deck in pairs(INCLUDED_DECK_MAP) do
+						if INCLUDED_DECK_MAP[deckindex] == incdeck then activedeck = deckindex end
+					end
+					if Tracker:FindObjectForCode(ALL_DECKS[activedeck].."deck").Active == true then
+						Tracker:FindObjectForCode(ALL_DECKS[activedeck].."deck"..ALL_STAKES[firststake].."access").Active = true
+					end
+				end
+			end
+		end
+
 		-- Handle Access tokens for 3
 		if STAKE_UNLOCK_MODE == 3 then 
 			-- if color stake then unlock all access tokens for included decks
@@ -205,13 +262,14 @@ function incrementItem(item_code, item_type)
 		if string.match(item_code,"jb") then
 			local num = tonumber(string.sub(item_code,3,-1))
 			if num==0 then
-				--big bundle release everything
+				--there is no big joker budnle
 			else
 				local bundle = JOKER_BUNDLES[num]
 				for _, joker in ipairs(bundle) do
 					Tracker:FindObjectForCode(ITEM_MAPPING[joker][1][1]).Active=true
 				end
-			end		
+			end
+			reconcile_joker_count()		
 		elseif string.match(item_code,"pb") then
 			local num = tonumber(string.sub(item_code,3,-1))
 			if num==0 then
@@ -224,6 +282,7 @@ function incrementItem(item_code, item_type)
 					Tracker:FindObjectForCode(ITEM_MAPPING[planet][1][1]).Active=true
 				end
 			end		
+			reconcile_planet_count()
 		elseif string.match(item_code,"sb") then
 			local num = tonumber(string.sub(item_code,3,-1))
 			if num==0 then
@@ -237,6 +296,7 @@ function incrementItem(item_code, item_type)
 					Tracker:FindObjectForCode(ITEM_MAPPING[spec][1][1]).Active=true
 				end
 			end		
+			reconcile_spectral_count()
 		elseif string.match(item_code,"tb") then
 			local num = tonumber(string.sub(item_code,3,-1))
 			if num==0 then
@@ -250,14 +310,52 @@ function incrementItem(item_code, item_type)
 				end
 			end
 		end
+		reconcile_tarot_count()
 	elseif AUTOTRACKER_ENABLE_DEBUG_LOGGING_AP then
 		print(string.format("incrementItem: could not find object for code %s", item_code))
 	end
 end
 
+function reconcile_joker_count()
+	local num = 0
+	for i = 5606016, 5606165, 1 do
+		if Tracker:FindObjectForCode(ITEM_MAPPING[i][1][1]).Active==true then
+			num= num + 1
+		end
+	end
+	Tracker:FindObjectForCode("jokercount").AcquiredCount = num
+end
+function reconcile_planet_count()
+	local num = 0
+	for i = 5606236, 5606248, 1 do
+		if Tracker:FindObjectForCode(ITEM_MAPPING[i][1][1]).Active==true then
+			num= num + 1
+		end
+	end
+	Tracker:FindObjectForCode("planetcount").AcquiredCount = num
+end
+function reconcile_spectral_count()
+	local num = 0
+	for i = 5606249, 5606267, 1 do
+		if Tracker:FindObjectForCode(ITEM_MAPPING[i][1][1]).Active==true then
+			num= num + 1
+		end
+	end
+	Tracker:FindObjectForCode("spectralcount").AcquiredCount = num
+end
+function reconcile_tarot_count()
+	local num = 0
+	for i = 5606213, 5606235, 1 do
+		if Tracker:FindObjectForCode(ITEM_MAPPING[i][1][1]).Active==true then
+			num= num + 1
+		end
+	end
+	Tracker:FindObjectForCode("tarotcount").AcquiredCount = num
+end
+
 -- apply everything needed from slot_data, called from onClear
 function apply_slot_data(slot_data)
-
+	
 	-- put any code here that slot_data should affect (toggling setting items for example)
 	STAKE_UNLOCK_MODE = slot_data["stake_unlock_mode"]
 	JOKER_BUNDLES = slot_data["jokerbundles"]
@@ -354,21 +452,26 @@ function apply_slot_data(slot_data)
 
 		for _, stake in pairs(ALL_STAKES) do
 			for _, deck in pairs(ALL_DECKS) do	
-				Tracker:FindObjectForCode(deck.."deck"..stake.."access").Active = true
+				if Tracker:FindObjectForCode(deck.."deck").Active == true then
+					Tracker:FindObjectForCode(deck.."deck"..stake.."access").Active = true
+				end
 			end
 		end
 	--Handle initial Access tokens for 1 & 2
 	elseif STAKE_UNLOCK_MODE == 1 or STAKE_UNLOCK_MODE == 2 then
-		-- Unlock in order, find first and unlock all decks for that stake
+		-- Unlock in order, find first and unlock all active decks for that stake
 		local firststake = STAKE_ORDER[1]
 		for incindex, incdeck in pairs( INCLUDED_DECKS ) do
 			local activedeck = 0
 			for deckindex, deck in pairs(INCLUDED_DECK_MAP) do
 				if INCLUDED_DECK_MAP[deckindex] == incdeck then activedeck = deckindex end
 			end
-			Tracker:FindObjectForCode(ALL_DECKS[activedeck].."deck"..ALL_STAKES[firststake].."access").Active = true
+			if Tracker:FindObjectForCode(ALL_DECKS[activedeck].."deck").Active == true then
+				Tracker:FindObjectForCode(ALL_DECKS[activedeck].."deck"..ALL_STAKES[firststake].."access").Active = true
+			end
 		end
 	end	
+	print(dump_table(slot_data))
 end
 
 -- called right after an AP slot is connected
@@ -521,6 +624,7 @@ function onLocation(location_id, location_name)
 			print(string.format("onLocation: skipping empty location_table"))
 		end
 	end
+
 	-- Handle distributing Access tokens for 1 & 2
 	if STAKE_UNLOCK_MODE == 1 or STAKE_UNLOCK_MODE == 2 then
 		if string.find(location_name,"Ante 8") then 
@@ -534,7 +638,7 @@ function onLocation(location_id, location_name)
 			if string.find(location_name,"Purple Stake") then stakeid = 6 end
 			if string.find(location_name,"Orange Stake") then stakeid = 7 end
 			if string.find(location_name,"Gold Stake") then stakeid = 8 end
-			 if string.find(location_name,"Red Deck") then deckid=1 end
+			if string.find(location_name,"Red Deck") then deckid=1 end
 			if string.find(location_name,"Blue Deck") then deckid=2 end
 			if string.find(location_name,"Yellow Deck") then deckid=3 end
 			if string.find(location_name,"Green Deck") then deckid=4 end
@@ -556,7 +660,6 @@ function onLocation(location_id, location_name)
 			end
 		end
 	end
-	
 end
 
 -- called when a locations is scouted
