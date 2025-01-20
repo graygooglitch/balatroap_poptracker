@@ -349,9 +349,9 @@
   {
     "name": "Drunkard",
     "type": "toggle",
-    "disabled_img": "images/items/jokers/disabled/Droll.png",
+    "disabled_img": "images/items/jokers/disabled/Drunkard.png",
     "codes":"drunkard",
-    "img": "images/items/jokers/Droll.png",
+    "img": "images/items/jokers/Drunkard.png",
     "disabled_img_mods":"none"
   },
   {

@@ -382,24 +382,64 @@ function apply_slot_data(slot_data)
 	for Index, Value in pairs( shops ) do
 		shop_length = shop_length + 1
 	end
-	--Assign Shops the same length
 	obj = Tracker:FindObjectForCode("@Grid/Shop Items, White Stakes/Shop Items")
 	obj.AvailableChestCount = shop_length
+
+	shops = slot_data["stake2_shop_locations"]
+	shop_length = 0
+	for Index, Value in pairs( shops ) do
+		shop_length = shop_length + 1
+	end
 	obj = Tracker:FindObjectForCode("@Grid/Shop Items, Red Stakes/Shop Items")
 	obj.AvailableChestCount = shop_length
+
+	shops = slot_data["stake3_shop_locations"]
+	shop_length = 0
+	for Index, Value in pairs( shops ) do
+		shop_length = shop_length + 1
+	end
 	obj = Tracker:FindObjectForCode("@Grid/Shop Items, Green Stakes/Shop Items")
 	obj.AvailableChestCount = shop_length
+
+	shops = slot_data["stake4_shop_locations"]
+	shop_length = 0
+	for Index, Value in pairs( shops ) do
+		shop_length = shop_length + 1
+	end
 	obj = Tracker:FindObjectForCode("@Grid/Shop Items, Black Stakes/Shop Items")
 	obj.AvailableChestCount = shop_length
+
+	shops = slot_data["stake5_shop_locations"]
+	shop_length = 0
+	for Index, Value in pairs( shops ) do
+		shop_length = shop_length + 1
+	end
 	obj = Tracker:FindObjectForCode("@Grid/Shop Items, Blue Stakes/Shop Items")
 	obj.AvailableChestCount = shop_length
+
+	shops = slot_data["stake6_shop_locations"]
+	shop_length = 0
+	for Index, Value in pairs( shops ) do
+		shop_length = shop_length + 1
+	end
 	obj = Tracker:FindObjectForCode("@Grid/Shop Items, Purple Stakes/Shop Items")
 	obj.AvailableChestCount = shop_length
+
+	shops = slot_data["stake7_shop_locations"]
+	shop_length = 0
+	for Index, Value in pairs( shops ) do
+		shop_length = shop_length + 1
+	end
 	obj = Tracker:FindObjectForCode("@Grid/Shop Items, Orange Stakes/Shop Items")
 	obj.AvailableChestCount = shop_length
+
+	shops = slot_data["stake8_shop_locations"]
+	shop_length = 0
+	for Index, Value in pairs( shops ) do
+		shop_length = shop_length + 1
+	end
 	obj = Tracker:FindObjectForCode("@Grid/Shop Items, Gold Stakes/Shop Items")
 	obj.AvailableChestCount = shop_length
-	--
 	-- get number of bundles for each bundle and set maximium on the consumable
 	
 	local bundle_length = 0

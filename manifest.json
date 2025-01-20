@@ -1,9 +1,9 @@
 {
   "name": "BalatroAP Tracker",
   "game_name": "Balatro",
-  "package_version": "1.0.1.0",
+  "package_version": "1.0.2.0",
   "package_uid": "balatroap",
-  "author": "GrayGooGirl",
+  "author": "GrayGooGlitch",
   "min_poptracker_version": "0.25.9",
   "target_poptracker_version": "0.28.0",
   "variants": {
