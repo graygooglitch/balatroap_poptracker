@@ -1,14 +1,26 @@
 {
   "name": "BalatroAP Tracker",
   "game_name": "Balatro",
-  "package_version": "1.0.2.0",
+  "package_version": "1.1.0.0",
   "package_uid": "balatroap",
   "author": "GrayGooGlitch",
   "min_poptracker_version": "0.25.9",
-  "target_poptracker_version": "0.28.0",
+  "target_poptracker_version": "0.30.0",
   "variants": {
     "standard": {
-      "display_name": "Map Tracker",
+      "display_name": "Full Tracker",
+      "flags": [
+        "ap"
+      ]
+    },
+    "compact": {
+      "display_name": "Compact Tracker",
+      "flags": [
+        "ap"
+      ]
+    },
+    "map_only": {
+      "display_name": "Map Only Tracker",
       "flags": [
         "ap"
       ]

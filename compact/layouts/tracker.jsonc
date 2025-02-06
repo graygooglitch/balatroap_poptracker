@@ -1,0 +1,147 @@
+{
+  //sets the trackers layout
+  //more info: https://github.com/black-sliver/PopTracker/blob/master/doc/PACKS.md#layouts
+  "tracker_default": {
+    "type": "container",
+    "background": "#000000",
+    "content": {
+      "type": "dock",
+      "dropshadow": true,
+      "content": [
+        {
+          "type": "dock",
+          "dock": "left",
+          "v_alignment": "stretch",
+          "content": [
+            {
+              "type": "group",
+              "header": "Items",
+              "dock": "top",
+              "content": {
+                "type": "layout",
+                "key": "shared_item_grid"
+              }
+            }
+          ]
+        },
+        {
+          "type": "tabbed",
+          "tabs": [
+            {
+              "title": "Deck, Stake, Ante Checks",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Deck, Stake, Ante Checks"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "tracker_horizontal": {
+    "type": "container",
+    "background": "#000000",
+    "content": {
+      "type": "dock",
+      "dropshadow": true,
+      "content": [
+        {
+          "type": "dock",
+          "dock": "bottom",
+          "content": [
+            {
+                "type": "tabbed",
+                "tabs": [
+                {
+                    "title": "Deck, Stake, Ante Checks",
+                    "content": {
+                    "type": "map",
+                    "maps": [
+                      "Deck, Stake, Ante Checks"
+                    ] 
+                  }
+                },
+                {
+                  "title": "Common Jokers",
+                  "content": {
+                    "type": "layout",
+                    "h_alignment": "center",
+                    "v_alignment": "center",
+                    "key": "common_grid"
+                  }
+                },
+                {
+                  "title": "Uncommon Jokers",
+                  "content": {
+                    "type": "layout",
+                    "h_alignment": "center",
+                    "v_alignment": "center",
+                    "key": "uncommon_grid"
+                  }
+                },
+                {
+                  "title": "Rare / Legendary Jokers",
+                  "content": {
+                    "type": "layout",
+                    "h_alignment": "center",
+                    "v_alignment": "center",
+                    "key": "rare_grid"
+                  }
+                },
+                {
+                  "title": "Consumables",
+                  "content": {
+                    "type": "layout",
+                    "h_alignment": "center",
+                    "v_alignment": "center",
+                    "key": "consumable_grid"
+                  }
+                },
+                {
+                  "title": "Vouchers & Permanent Upgrades",
+                  "content": {
+                    "type": "layout",
+                    "h_alignment": "center",
+                    "v_alignment": "center",
+                    "key": "voucher_con_grid"
+                  }
+                },
+              {
+                "title": "Packs & Bundles",
+                "content": {
+                  "type": "layout",
+                  "h_alignment": "center",
+                  "v_alignment": "center",
+                  "key": "filler_con_grid"
+                }
+              },
+              {
+                "title": "Decks & Stakes",
+                "content": {
+                  "type": "layout",
+                  "h_alignment": "center",
+                  "v_alignment": "center",
+                  "key": "settings_grid"
+                }
+              },
+              {
+                "title": "Manual Map Control",
+                "content": {
+                  "type": "layout",
+                  "h_alignment": "center",
+                  "v_alignment": "center",
+                  "key": "manual_grid"
+                }
+              }
+              ]
+              
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
