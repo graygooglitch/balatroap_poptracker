@@ -134,7 +134,7 @@ function incrementItem(item_code, item_type)
 			if string.find(item_code,"ghostdeck") then deckid = 8 end
 			if string.find(item_code,"abandoneddeck") then deckid = 9 end
 			if string.find(item_code,"checkereddeck") then deckid = 10 end
-			if string.find(item_code,"tarotdeck") then deckid = 11 end
+			if string.find(item_code,"zodiacdeck") then deckid = 11 end
 			if string.find(item_code,"painteddeck") then deckid = 12 end
 			if string.find(item_code,"anaglyphdeck") then deckid = 13 end
 			if string.find(item_code,"plasmadeck") then deckid = 14 end
@@ -159,7 +159,7 @@ function incrementItem(item_code, item_type)
 			if string.find(item_code,"ghostdeck") then deckid = 8 end
 			if string.find(item_code,"abandoneddeck") then deckid = 9 end
 			if string.find(item_code,"checkereddeck") then deckid = 10 end
-			if string.find(item_code,"tarotdeck") then deckid = 11 end
+			if string.find(item_code,"zodiacdeck") then deckid = 11 end
 			if string.find(item_code,"painteddeck") then deckid = 12 end
 			if string.find(item_code,"anaglyphdeck") then deckid = 13 end
 			if string.find(item_code,"plasmadeck") then deckid = 14 end
@@ -204,7 +204,7 @@ function incrementItem(item_code, item_type)
 			if string.find(item_code,"ghostdeck") then deckid = 8 end
 			if string.find(item_code,"abandoneddeck") then deckid = 9 end
 			if string.find(item_code,"checkereddeck") then deckid = 10 end
-			if string.find(item_code,"tarotdeck") then deckid = 11 end
+			if string.find(item_code,"zodiacdeck") then deckid = 11 end
 			if string.find(item_code,"painteddeck") then deckid = 12 end
 			if string.find(item_code,"anaglyphdeck") then deckid = 13 end
 			if string.find(item_code,"plasmadeck") then deckid = 14 end
@@ -252,7 +252,7 @@ function incrementItem(item_code, item_type)
 				if string.find(item_code,"ghostdeck") then Tracker:FindObjectForCode("ghostdeck").Active = true end
 				if string.find(item_code,"abandoneddeck") then Tracker:FindObjectForCode("abandoneddeck").Active = true end
 				if string.find(item_code,"checkereddeck") then Tracker:FindObjectForCode("checkereddeck").Active = true end
-				if string.find(item_code,"tarotdeck") then Tracker:FindObjectForCode("tarotdeck").Active = true end
+				if string.find(item_code,"zodiacdeck") then Tracker:FindObjectForCode("zodiacdeck").Active = true end
 				if string.find(item_code,"painteddeck") then Tracker:FindObjectForCode("painteddeck").Active = true end
 				if string.find(item_code,"anaglyphdeck") then Tracker:FindObjectForCode("anaglyphdeck").Active = true end
 				if string.find(item_code,"plasmadeck") then Tracker:FindObjectForCode("plasmadeck").Active = true end
@@ -688,7 +688,7 @@ function onLocation(location_id, location_name)
 			if string.find(location_name,"Ghost Deck") then deckid=8 end
 			if string.find(location_name,"Abandoned Deck") then deckid=9 end
 			if string.find(location_name,"Checkered Deck") then deckid=10 end
-			if string.find(location_name,"Tarot Deck") then deckid=11 end
+			if string.find(location_name,"Zodiac Deck") then deckid=11 end
 			if string.find(location_name,"Painted Deck") then deckid=12 end
 			if string.find(location_name,"Anaglyph Deck") then deckid=13 end
 			if string.find(location_name,"Plasma Deck") then deckid=14 end
