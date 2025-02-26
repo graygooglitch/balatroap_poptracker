@@ -7,6 +7,8 @@
 ScriptHost:LoadScript("scripts/autotracking/item_mapping.lua")
 ScriptHost:LoadScript("scripts/autotracking/location_mapping.lua")
 
+PLAYER_NUMBER = -1
+TEAM_NUMBER = -1
 CUR_INDEX = -1
 LOCAL_ITEMS = {}
 GLOBAL_ITEMS = {}
@@ -16,6 +18,7 @@ JOKER_BUNDLES = {}
 PLANET_BUNDLES = {}
 SPECTRAL_BUNDLES = {}
 TAROT_BUNDLES = {}
+WIN_DATA = {}
 ALL_DECKS = {
 	"red",
 	"blue",
@@ -355,7 +358,6 @@ end
 
 -- apply everything needed from slot_data, called from onClear
 function apply_slot_data(slot_data)
-	
 	-- put any code here that slot_data should affect (toggling setting items for example)
 	STAKE_UNLOCK_MODE = slot_data["stake_unlock_mode"]
 	JOKER_BUNDLES = slot_data["jokerbundles"]
@@ -516,6 +518,10 @@ end
 
 -- called right after an AP slot is connected
 function onClear(slot_data)
+	PLAYER_NUMBER = Archipelago.PlayerNumber
+	TEAM_NUMBER = Archipelago.TeamNumber
+	Archipelago:SetNotify({"balatro_deck_wins"..PLAYER_NUMBER.."_"..TEAM_NUMBER})
+	Archipelago:Get({"balatro_deck_wins"..PLAYER_NUMBER.."_"..TEAM_NUMBER})
 	-- use bulk update to pause logic updates until we are done resetting all items/locations
 	Tracker.BulkUpdate = true	
 	if AUTOTRACKER_ENABLE_DEBUG_LOGGING_AP then
@@ -665,41 +671,7 @@ function onLocation(location_id, location_name)
 		end
 	end
 
-	-- Handle distributing Access tokens for 1 & 2
-	if STAKE_UNLOCK_MODE == 1 or STAKE_UNLOCK_MODE == 2 then
-		if string.find(location_name,"Ante 8") then 
-			local deckid = 1
-			local stakeid = 1
-			if string.find(location_name,"White Stake") then stakeid = 1 end
-			if string.find(location_name,"Red Stake") then stakeid = 2 end
-			if string.find(location_name,"Green Stake") then stakeid = 3 end
-			if string.find(location_name,"Black Stake") then stakeid = 4 end
-			if string.find(location_name,"Blue Stake") then stakeid = 5 end
-			if string.find(location_name,"Purple Stake") then stakeid = 6 end
-			if string.find(location_name,"Orange Stake") then stakeid = 7 end
-			if string.find(location_name,"Gold Stake") then stakeid = 8 end
-			if string.find(location_name,"Red Deck") then deckid=1 end
-			if string.find(location_name,"Blue Deck") then deckid=2 end
-			if string.find(location_name,"Yellow Deck") then deckid=3 end
-			if string.find(location_name,"Green Deck") then deckid=4 end
-			if string.find(location_name,"Black Deck") then deckid=5 end
-			if string.find(location_name,"Magic Deck") then deckid=6 end
-			if string.find(location_name,"Nebula Deck") then deckid=7 end
-			if string.find(location_name,"Ghost Deck") then deckid=8 end
-			if string.find(location_name,"Abandoned Deck") then deckid=9 end
-			if string.find(location_name,"Checkered Deck") then deckid=10 end
-			if string.find(location_name,"Zodiac Deck") then deckid=11 end
-			if string.find(location_name,"Painted Deck") then deckid=12 end
-			if string.find(location_name,"Anaglyph Deck") then deckid=13 end
-			if string.find(location_name,"Plasma Deck") then deckid=14 end
-			if string.find(location_name,"Erratic Deck") then deckid=15 end
-			for index, stakes in ipairs(STAKE_ORDER) do
-				if stakes == stakeid then 
-				Tracker:FindObjectForCode(ALL_DECKS[deckid].."deck"..ALL_STAKES[STAKE_ORDER[index+1]].."access").Active = true
-				end
-			end
-		end
-	end
+	
 end
 
 -- called when a locations is scouted
@@ -719,6 +691,35 @@ function onBounce(json)
 	-- your code goes here
 end
 
+function reconcile_stakes()
+	if STAKE_UNLOCK_MODE == 1 or STAKE_UNLOCK_MODE == 2 then
+		for deckindex, deck in pairs(INCLUDED_DECK_MAP) do
+			for stakeindex , stake in pairs(WIN_DATA[deck]["wins"]) do
+				--use index to figure out which stake by comparing to stake order
+				Tracker:FindObjectForCode(string.sub(deck,3).."deck"..ALL_STAKES[STAKE_ORDER[stakeindex+1]].."access").Active = true
+			end
+
+		
+
+		end
+	end
+end
+
+function onRetreive(key, val)
+	if key == "balatro_deck_wins"..PLAYER_NUMBER.."_"..TEAM_NUMBER then
+		WIN_DATA = val;
+		reconcile_stakes()
+	end
+
+end
+
+function onReply(key)
+	Archipelago:Get({"balatro_deck_wins"..PLAYER_NUMBER.."_"..TEAM_NUMBER})
+end
+
+
+
+
 -- add AP callbacks
 -- un-/comment as needed
 Archipelago:AddClearHandler("clear handler", onClear)
@@ -728,5 +729,7 @@ end
 if AUTOTRACKER_ENABLE_LOCATION_TRACKING then
 	Archipelago:AddLocationHandler("location handler", onLocation)
 end
+Archipelago:AddRetrievedHandler("retreived handler", onRetreive)
+Archipelago:AddSetReplyHandler("reply handler", onReply)
 -- Archipelago:AddScoutHandler("scout handler", onScout)
 -- Archipelago:AddBouncedHandler("bounce handler", onBounce)
